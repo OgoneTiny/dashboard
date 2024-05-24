@@ -1,0 +1,1001 @@
+Timestamp,IP Address,Request Type,Resource,Status Code,User,Sport,Country,Gender,Continent
+2024-05-16 10:06:36.599853,192.168.0.1,GET,/index.html,200,user2,tennis,South Africa,Female,Africa
+2024-05-20 13:27:36.599853,172.16.0.1,GET,/index.html,404,user2,basketball,Canada,Female,North America
+2024-05-20 01:04:36.599853,10.0.0.1,GET,/about.html,404,user3,basketball,Argentina,Female,South America
+2024-05-18 20:13:36.599853,192.168.0.1,GET,/contact.html,500,user2,soccer,Brazil,Male,South America
+2024-05-17 15:47:36.599853,192.168.0.1,GET,/index.html,404,user2,tennis,South Africa,Male,Africa
+2024-05-21 20:53:36.599853,10.0.0.1,POST,/contact.html,500,user3,golf,Australia,Female,Oceania
+2024-05-17 12:00:36.599853,172.16.0.1,GET,/index.html,500,user3,tennis,Chile,Female,South America
+2024-05-21 01:53:36.599853,172.16.0.1,POST,/contact.html,200,user3,golf,Australia,Male,Oceania
+2024-05-18 15:09:36.599853,172.16.0.1,GET,/index.html,404,user2,basketball,Mexico,Female,North America
+2024-05-18 10:41:36.599853,192.168.0.1,GET,/index.html,500,user2,tennis,South Africa,Male,Africa
+2024-05-20 09:56:36.599853,10.0.0.1,GET,/about.html,404,user1,football,China,Female,Asia
+2024-05-19 01:02:36.599853,192.168.0.1,GET,/contact.html,404,user3,basketball,Fiji,Male,Oceania
+2024-05-17 13:31:36.599853,10.0.0.1,GET,/contact.html,200,user2,tennis,Japan,Male,Asia
+2024-05-19 19:56:36.599853,10.0.0.1,POST,/about.html,200,user1,tennis,Australia,Female,Oceania
+2024-05-22 23:08:36.599853,172.16.0.1,POST,/about.html,200,user1,soccer,Australia,Male,Oceania
+2024-05-18 02:33:36.599853,172.16.0.1,POST,/contact.html,200,user3,basketball,Fiji,Female,Oceania
+2024-05-16 09:48:36.599853,10.0.0.1,GET,/contact.html,404,user2,basketball,South Africa,Female,Africa
+2024-05-17 18:26:36.599853,10.0.0.1,GET,/contact.html,500,user3,tennis,New Zealand,Male,Oceania
+2024-05-21 09:54:36.599853,10.0.0.1,GET,/about.html,500,user2,basketball,Japan,Male,Asia
+2024-05-19 09:17:36.599853,172.16.0.1,POST,/contact.html,500,user3,football,Chile,Female,South America
+2024-05-17 03:44:36.599853,172.16.0.1,GET,/contact.html,200,user3,football,Brazil,Female,South America
+2024-05-18 21:45:36.599853,10.0.0.1,GET,/contact.html,200,user2,football,Kenya,Female,Africa
+2024-05-21 14:27:36.599853,172.16.0.1,POST,/contact.html,500,user3,basketball,Argentina,Male,South America
+2024-05-18 15:54:36.599853,172.16.0.1,POST,/about.html,500,user3,tennis,New Zealand,Female,Oceania
+2024-05-17 17:55:36.599853,192.168.0.1,GET,/index.html,404,user3,tennis,France,Female,Europe
+2024-05-17 03:47:36.599853,192.168.0.1,GET,/contact.html,500,user2,tennis,Mexico,Female,North America
+2024-05-23 00:23:36.599853,10.0.0.1,GET,/index.html,500,user2,golf,Canada,Male,North America
+2024-05-19 12:09:36.599853,172.16.0.1,POST,/contact.html,500,user1,soccer,Kenya,Female,Africa
+2024-05-18 12:48:36.599853,192.168.0.1,GET,/contact.html,404,user1,tennis,Canada,Male,North America
+2024-05-17 04:14:36.599853,192.168.0.1,POST,/index.html,404,user3,golf,Kenya,Female,Africa
+2024-05-17 14:14:36.599853,10.0.0.1,POST,/contact.html,500,user3,soccer,France,Female,Europe
+2024-05-16 18:09:36.599853,172.16.0.1,POST,/about.html,500,user3,football,Canada,Male,North America
+2024-05-17 03:06:36.599853,172.16.0.1,POST,/contact.html,200,user3,tennis,India,Male,Asia
+2024-05-22 03:38:36.599853,10.0.0.1,GET,/contact.html,200,user1,basketball,South Africa,Female,Africa
+2024-05-16 20:10:36.599853,10.0.0.1,GET,/about.html,200,user1,tennis,Japan,Male,Asia
+2024-05-19 21:32:36.599853,172.16.0.1,GET,/contact.html,404,user2,basketball,USA,Male,North America
+2024-05-20 16:40:36.599853,192.168.0.1,POST,/index.html,500,user2,tennis,Australia,Male,Oceania
+2024-05-21 16:14:36.599853,192.168.0.1,POST,/about.html,404,user2,basketball,Chile,Female,South America
+2024-05-16 06:32:36.599853,10.0.0.1,POST,/index.html,500,user1,basketball,UK,Female,Europe
+2024-05-19 17:45:36.599853,172.16.0.1,POST,/contact.html,404,user1,tennis,Kenya,Female,Africa
+2024-05-21 11:38:36.599853,172.16.0.1,GET,/contact.html,200,user2,golf,USA,Female,North America
+2024-05-21 19:11:36.599853,10.0.0.1,GET,/about.html,200,user1,tennis,New Zealand,Male,Oceania
+2024-05-19 04:50:36.599853,10.0.0.1,GET,/contact.html,200,user1,football,South Africa,Male,Africa
+2024-05-17 13:14:36.599853,192.168.0.1,POST,/contact.html,500,user1,golf,Germany,Female,Europe
+2024-05-16 09:20:36.599853,10.0.0.1,POST,/about.html,404,user3,football,Chile,Female,South America
+2024-05-19 15:21:36.599853,192.168.0.1,GET,/contact.html,500,user2,basketball,Mexico,Female,North America
+2024-05-18 10:48:36.599853,172.16.0.1,POST,/contact.html,200,user3,football,USA,Female,North America
+2024-05-17 17:04:36.599853,172.16.0.1,GET,/contact.html,200,user1,tennis,South Africa,Female,Africa
+2024-05-18 19:12:36.599853,192.168.0.1,GET,/index.html,200,user3,basketball,Japan,Male,Asia
+2024-05-17 06:53:36.599853,10.0.0.1,POST,/about.html,404,user2,soccer,Kenya,Male,Africa
+2024-05-17 13:13:36.599853,192.168.0.1,GET,/contact.html,404,user1,tennis,China,Female,Asia
+2024-05-17 16:53:36.599853,172.16.0.1,GET,/index.html,200,user3,golf,Chile,Male,South America
+2024-05-22 09:32:36.599853,172.16.0.1,POST,/about.html,500,user3,golf,South Africa,Female,Africa
+2024-05-19 00:19:36.599853,192.168.0.1,GET,/about.html,200,user2,tennis,Kenya,Male,Africa
+2024-05-21 03:58:36.599853,192.168.0.1,GET,/about.html,200,user2,golf,Japan,Female,Asia
+2024-05-19 13:19:36.599853,172.16.0.1,POST,/about.html,404,user2,basketball,Australia,Female,Oceania
+2024-05-16 15:10:36.599853,192.168.0.1,POST,/index.html,404,user2,football,Kenya,Female,Africa
+2024-05-17 13:12:36.599853,192.168.0.1,POST,/contact.html,500,user1,football,New Zealand,Female,Oceania
+2024-05-20 16:33:36.599853,192.168.0.1,GET,/about.html,500,user2,golf,China,Male,Asia
+2024-05-19 13:40:36.599853,172.16.0.1,POST,/index.html,200,user2,soccer,China,Male,Asia
+2024-05-20 08:11:36.599853,192.168.0.1,GET,/about.html,404,user1,soccer,Chile,Female,South America
+2024-05-20 07:40:36.599853,192.168.0.1,POST,/about.html,200,user1,soccer,China,Male,Asia
+2024-05-21 09:06:36.599853,172.16.0.1,GET,/index.html,404,user3,tennis,China,Female,Asia
+2024-05-21 07:57:36.599853,10.0.0.1,GET,/index.html,500,user1,football,Chile,Female,South America
+2024-05-20 23:26:36.599853,172.16.0.1,POST,/about.html,404,user1,basketball,Germany,Female,Europe
+2024-05-17 04:41:36.599853,172.16.0.1,POST,/contact.html,500,user1,soccer,India,Female,Asia
+2024-05-22 16:43:36.599853,192.168.0.1,GET,/index.html,404,user1,football,South Africa,Male,Africa
+2024-05-22 15:38:36.599853,192.168.0.1,GET,/about.html,200,user2,football,Canada,Female,North America
+2024-05-19 22:11:36.599853,192.168.0.1,POST,/contact.html,200,user2,basketball,New Zealand,Female,Oceania
+2024-05-18 04:32:36.599853,192.168.0.1,POST,/about.html,500,user2,golf,India,Male,Asia
+2024-05-21 19:06:36.599853,192.168.0.1,GET,/contact.html,404,user1,tennis,Brazil,Male,South America
+2024-05-22 21:36:36.599853,192.168.0.1,GET,/index.html,200,user2,soccer,Fiji,Female,Oceania
+2024-05-20 05:34:36.599853,192.168.0.1,GET,/about.html,200,user3,football,New Zealand,Male,Oceania
+2024-05-19 15:09:36.599853,172.16.0.1,GET,/about.html,500,user3,football,Germany,Female,Europe
+2024-05-21 00:09:36.599853,172.16.0.1,GET,/contact.html,500,user2,basketball,Fiji,Male,Oceania
+2024-05-17 23:38:36.599853,10.0.0.1,POST,/about.html,404,user3,basketball,Mexico,Female,North America
+2024-05-17 16:02:36.599853,10.0.0.1,POST,/index.html,404,user3,basketball,South Africa,Female,Africa
+2024-05-22 08:29:36.599853,10.0.0.1,GET,/contact.html,404,user1,basketball,Canada,Male,North America
+2024-05-18 16:58:36.599853,172.16.0.1,GET,/contact.html,404,user1,basketball,UK,Female,Europe
+2024-05-20 18:14:36.599853,192.168.0.1,GET,/about.html,500,user2,golf,Germany,Female,Europe
+2024-05-19 11:20:36.599853,10.0.0.1,GET,/contact.html,500,user2,golf,Brazil,Female,South America
+2024-05-17 06:31:36.599853,10.0.0.1,POST,/about.html,500,user1,football,Chile,Male,South America
+2024-05-21 00:31:36.599853,192.168.0.1,GET,/contact.html,200,user1,soccer,Chile,Female,South America
+2024-05-21 01:52:36.599853,172.16.0.1,POST,/index.html,404,user1,football,South Africa,Male,Africa
+2024-05-16 14:59:36.599853,172.16.0.1,GET,/contact.html,404,user1,tennis,Japan,Male,Asia
+2024-05-18 15:27:36.599853,10.0.0.1,GET,/contact.html,404,user1,football,China,Female,Asia
+2024-05-22 00:41:36.599853,192.168.0.1,POST,/contact.html,404,user2,basketball,Kenya,Male,Africa
+2024-05-18 23:40:36.599853,192.168.0.1,GET,/contact.html,200,user3,tennis,Chile,Female,South America
+2024-05-21 18:52:36.599853,10.0.0.1,POST,/contact.html,200,user2,basketball,China,Male,Asia
+2024-05-18 23:54:36.599853,172.16.0.1,POST,/about.html,200,user3,tennis,Canada,Female,North America
+2024-05-21 05:33:36.599853,192.168.0.1,GET,/contact.html,404,user2,basketball,Argentina,Female,South America
+2024-05-21 10:03:36.599853,192.168.0.1,GET,/contact.html,404,user2,basketball,UK,Male,Europe
+2024-05-21 16:04:36.599853,192.168.0.1,GET,/about.html,500,user2,football,New Zealand,Female,Oceania
+2024-05-21 07:00:36.599853,10.0.0.1,POST,/about.html,500,user2,basketball,France,Female,Europe
+2024-05-22 23:30:36.599853,172.16.0.1,POST,/about.html,404,user2,basketball,South Africa,Female,Africa
+2024-05-20 16:26:36.599853,10.0.0.1,GET,/about.html,200,user3,golf,New Zealand,Male,Oceania
+2024-05-17 12:26:36.599853,172.16.0.1,POST,/contact.html,500,user2,golf,Brazil,Female,South America
+2024-05-18 09:53:36.599853,172.16.0.1,GET,/about.html,200,user3,tennis,Nigeria,Female,Africa
+2024-05-17 08:13:36.599853,192.168.0.1,POST,/contact.html,500,user1,football,Argentina,Female,South America
+2024-05-18 10:21:36.599853,192.168.0.1,GET,/about.html,500,user1,football,Brazil,Male,South America
+2024-05-19 15:44:36.599853,192.168.0.1,POST,/about.html,500,user2,soccer,Chile,Female,South America
+2024-05-18 21:14:36.599853,172.16.0.1,POST,/index.html,200,user2,soccer,Mexico,Female,North America
+2024-05-22 09:59:36.599853,172.16.0.1,GET,/index.html,404,user3,soccer,Canada,Male,North America
+2024-05-16 18:00:36.599853,192.168.0.1,GET,/contact.html,404,user3,soccer,Argentina,Female,South America
+2024-05-17 19:18:36.599853,10.0.0.1,POST,/index.html,404,user2,basketball,Australia,Female,Oceania
+2024-05-22 21:56:36.599853,10.0.0.1,GET,/contact.html,404,user3,tennis,Canada,Male,North America
+2024-05-21 15:19:36.599853,192.168.0.1,POST,/index.html,200,user1,basketball,UK,Female,Europe
+2024-05-19 19:58:36.599853,192.168.0.1,GET,/about.html,404,user3,golf,Brazil,Male,South America
+2024-05-20 05:02:36.599853,172.16.0.1,GET,/contact.html,500,user1,football,UK,Male,Europe
+2024-05-22 14:25:36.599853,192.168.0.1,GET,/about.html,200,user2,soccer,South Africa,Male,Africa
+2024-05-20 21:05:36.599853,172.16.0.1,POST,/contact.html,500,user3,basketball,South Africa,Female,Africa
+2024-05-21 21:09:36.599853,172.16.0.1,GET,/about.html,200,user1,tennis,Fiji,Female,Oceania
+2024-05-19 12:41:36.599853,192.168.0.1,POST,/about.html,500,user1,soccer,Kenya,Male,Africa
+2024-05-16 09:46:36.599853,10.0.0.1,POST,/contact.html,404,user1,golf,Nigeria,Male,Africa
+2024-05-20 20:38:36.599853,10.0.0.1,POST,/contact.html,200,user1,basketball,USA,Female,North America
+2024-05-19 04:01:36.599853,192.168.0.1,POST,/index.html,200,user2,tennis,Fiji,Male,Oceania
+2024-05-22 22:06:36.599853,172.16.0.1,POST,/contact.html,200,user1,golf,France,Male,Europe
+2024-05-18 21:41:36.599853,10.0.0.1,GET,/index.html,404,user1,tennis,Mexico,Male,North America
+2024-05-19 19:08:36.599853,192.168.0.1,POST,/index.html,200,user2,soccer,Nigeria,Male,Africa
+2024-05-20 04:58:36.599853,172.16.0.1,GET,/index.html,404,user3,football,Chile,Male,South America
+2024-05-18 10:31:36.599853,192.168.0.1,GET,/contact.html,404,user2,tennis,Brazil,Female,South America
+2024-05-18 15:40:36.599853,192.168.0.1,POST,/contact.html,500,user3,tennis,Kenya,Female,Africa
+2024-05-19 14:13:36.599853,10.0.0.1,POST,/contact.html,200,user1,soccer,India,Male,Asia
+2024-05-22 07:32:36.599853,10.0.0.1,GET,/about.html,500,user1,tennis,Kenya,Female,Africa
+2024-05-18 07:57:36.599853,172.16.0.1,POST,/index.html,500,user1,tennis,Argentina,Female,South America
+2024-05-22 08:06:36.599853,192.168.0.1,GET,/about.html,404,user2,soccer,USA,Female,North America
+2024-05-18 12:20:36.599853,192.168.0.1,GET,/about.html,200,user1,basketball,Germany,Male,Europe
+2024-05-18 20:14:36.599853,172.16.0.1,GET,/contact.html,404,user3,tennis,New Zealand,Female,Oceania
+2024-05-19 05:27:36.599853,10.0.0.1,GET,/index.html,500,user1,basketball,Canada,Female,North America
+2024-05-20 15:22:36.599853,10.0.0.1,GET,/index.html,200,user2,soccer,Australia,Female,Oceania
+2024-05-20 19:22:36.599853,192.168.0.1,GET,/index.html,404,user1,basketball,China,Female,Asia
+2024-05-16 07:03:36.599853,172.16.0.1,POST,/contact.html,200,user2,soccer,USA,Female,North America
+2024-05-20 12:59:36.599853,192.168.0.1,GET,/contact.html,200,user3,basketball,Canada,Female,North America
+2024-05-16 09:06:36.599853,172.16.0.1,POST,/index.html,500,user3,golf,Chile,Male,South America
+2024-05-20 08:59:36.599853,172.16.0.1,POST,/index.html,500,user1,basketball,Nigeria,Female,Africa
+2024-05-18 21:11:36.599853,192.168.0.1,GET,/index.html,404,user2,football,Germany,Male,Europe
+2024-05-18 01:17:36.599853,192.168.0.1,GET,/contact.html,404,user3,soccer,France,Male,Europe
+2024-05-21 10:09:36.599853,192.168.0.1,GET,/about.html,200,user2,basketball,France,Female,Europe
+2024-05-20 15:07:36.599853,10.0.0.1,GET,/contact.html,200,user1,tennis,China,Female,Asia
+2024-05-21 16:39:36.599853,172.16.0.1,POST,/index.html,200,user1,football,Kenya,Female,Africa
+2024-05-18 16:01:36.599853,10.0.0.1,GET,/contact.html,200,user3,football,Chile,Male,South America
+2024-05-22 03:11:36.599853,172.16.0.1,POST,/index.html,500,user2,golf,New Zealand,Male,Oceania
+2024-05-21 05:26:36.599853,192.168.0.1,POST,/about.html,200,user2,basketball,France,Male,Europe
+2024-05-16 08:06:36.599853,10.0.0.1,GET,/contact.html,404,user3,basketball,India,Male,Asia
+2024-05-18 19:38:36.599853,172.16.0.1,GET,/contact.html,200,user2,basketball,USA,Male,North America
+2024-05-19 08:21:36.599853,10.0.0.1,GET,/contact.html,200,user1,basketball,Kenya,Male,Africa
+2024-05-17 10:56:36.599853,172.16.0.1,GET,/about.html,200,user2,football,Kenya,Female,Africa
+2024-05-17 12:33:36.599853,192.168.0.1,POST,/about.html,200,user1,football,Kenya,Male,Africa
+2024-05-17 20:36:36.599853,10.0.0.1,GET,/about.html,200,user2,football,Canada,Female,North America
+2024-05-17 07:19:36.599853,172.16.0.1,GET,/about.html,200,user3,soccer,Mexico,Female,North America
+2024-05-18 16:46:36.599853,10.0.0.1,GET,/index.html,404,user2,tennis,South Africa,Male,Africa
+2024-05-22 06:43:36.599853,10.0.0.1,GET,/about.html,500,user2,soccer,Australia,Female,Oceania
+2024-05-21 10:00:36.599853,10.0.0.1,GET,/index.html,200,user1,basketball,South Africa,Male,Africa
+2024-05-22 06:11:36.599853,10.0.0.1,GET,/contact.html,500,user3,football,South Africa,Male,Africa
+2024-05-21 11:17:36.599853,10.0.0.1,GET,/about.html,500,user3,basketball,UK,Female,Europe
+2024-05-16 22:47:36.599853,172.16.0.1,GET,/about.html,200,user2,tennis,South Africa,Male,Africa
+2024-05-22 01:22:36.599853,10.0.0.1,POST,/index.html,200,user2,soccer,UK,Male,Europe
+2024-05-21 16:55:36.599853,172.16.0.1,GET,/about.html,200,user2,football,India,Female,Asia
+2024-05-18 01:51:36.599853,10.0.0.1,POST,/contact.html,500,user1,tennis,Brazil,Female,South America
+2024-05-21 04:01:36.599853,192.168.0.1,GET,/index.html,200,user2,tennis,India,Male,Asia
+2024-05-20 14:57:36.599853,10.0.0.1,GET,/about.html,500,user2,soccer,Argentina,Female,South America
+2024-05-18 18:55:36.599853,10.0.0.1,GET,/index.html,500,user3,football,China,Female,Asia
+2024-05-18 11:52:36.599853,10.0.0.1,GET,/index.html,200,user3,football,Canada,Male,North America
+2024-05-22 17:04:36.599853,10.0.0.1,POST,/index.html,404,user1,golf,China,Female,Asia
+2024-05-17 04:49:36.599853,172.16.0.1,POST,/index.html,500,user1,soccer,South Africa,Male,Africa
+2024-05-21 14:05:36.599853,172.16.0.1,GET,/contact.html,200,user1,golf,UK,Male,Europe
+2024-05-17 10:50:36.599853,10.0.0.1,GET,/index.html,200,user3,golf,USA,Female,North America
+2024-05-20 20:54:36.599853,10.0.0.1,POST,/index.html,404,user3,basketball,Nigeria,Female,Africa
+2024-05-22 11:19:36.599853,172.16.0.1,POST,/about.html,404,user1,basketball,Canada,Female,North America
+2024-05-17 12:46:36.599853,10.0.0.1,GET,/index.html,500,user3,tennis,Kenya,Male,Africa
+2024-05-19 02:57:36.599853,192.168.0.1,POST,/index.html,200,user3,football,UK,Female,Europe
+2024-05-19 03:57:36.599853,172.16.0.1,POST,/index.html,200,user3,soccer,Germany,Male,Europe
+2024-05-17 16:34:36.599853,192.168.0.1,POST,/index.html,404,user2,basketball,India,Female,Asia
+2024-05-18 21:38:36.599853,192.168.0.1,GET,/index.html,200,user2,basketball,France,Male,Europe
+2024-05-16 19:09:36.599853,10.0.0.1,GET,/index.html,404,user3,golf,Japan,Male,Asia
+2024-05-22 18:19:36.599853,172.16.0.1,POST,/contact.html,404,user1,tennis,Brazil,Male,South America
+2024-05-18 00:03:36.599853,192.168.0.1,POST,/about.html,404,user3,football,Argentina,Female,South America
+2024-05-21 11:24:36.599853,10.0.0.1,GET,/index.html,500,user2,soccer,Brazil,Male,South America
+2024-05-20 08:32:36.599853,172.16.0.1,GET,/about.html,500,user3,tennis,China,Female,Asia
+2024-05-16 04:39:36.599853,172.16.0.1,GET,/index.html,200,user2,football,India,Male,Asia
+2024-05-16 19:47:36.599853,10.0.0.1,POST,/contact.html,200,user2,golf,USA,Male,North America
+2024-05-21 14:35:36.599853,10.0.0.1,GET,/about.html,200,user3,basketball,India,Male,Asia
+2024-05-16 11:45:36.599853,10.0.0.1,GET,/contact.html,500,user3,golf,Chile,Male,South America
+2024-05-22 04:20:36.599853,172.16.0.1,GET,/about.html,200,user1,football,Brazil,Female,South America
+2024-05-17 02:18:36.599853,10.0.0.1,GET,/about.html,200,user2,soccer,Argentina,Female,South America
+2024-05-22 11:27:36.599853,172.16.0.1,POST,/contact.html,404,user1,soccer,Nigeria,Female,Africa
+2024-05-16 05:20:36.599853,192.168.0.1,POST,/about.html,500,user3,golf,South Africa,Male,Africa
+2024-05-21 08:07:36.599853,10.0.0.1,GET,/index.html,200,user3,golf,New Zealand,Male,Oceania
+2024-05-20 22:01:36.599853,10.0.0.1,POST,/about.html,500,user1,golf,Canada,Male,North America
+2024-05-17 15:10:36.599853,10.0.0.1,GET,/about.html,404,user1,golf,Nigeria,Male,Africa
+2024-05-19 13:20:36.599853,192.168.0.1,POST,/about.html,404,user2,basketball,Nigeria,Male,Africa
+2024-05-17 08:07:36.599853,192.168.0.1,POST,/contact.html,200,user1,golf,Australia,Male,Oceania
+2024-05-19 00:32:36.599853,192.168.0.1,POST,/contact.html,404,user3,basketball,Canada,Male,North America
+2024-05-16 23:21:36.599853,10.0.0.1,GET,/index.html,404,user3,basketball,Australia,Female,Oceania
+2024-05-18 15:47:36.599853,192.168.0.1,GET,/contact.html,200,user2,football,India,Female,Asia
+2024-05-16 05:34:36.599853,172.16.0.1,GET,/about.html,404,user3,football,Germany,Male,Europe
+2024-05-18 00:59:36.599853,10.0.0.1,GET,/contact.html,404,user3,tennis,Argentina,Female,South America
+2024-05-16 19:31:36.599853,172.16.0.1,GET,/index.html,500,user3,basketball,Australia,Male,Oceania
+2024-05-17 05:01:36.599853,192.168.0.1,GET,/contact.html,500,user1,golf,UK,Female,Europe
+2024-05-17 23:57:36.599853,172.16.0.1,GET,/about.html,500,user2,football,France,Male,Europe
+2024-05-21 23:58:36.599853,192.168.0.1,GET,/index.html,200,user1,basketball,Brazil,Female,South America
+2024-05-18 06:26:36.599853,172.16.0.1,GET,/index.html,200,user3,football,Brazil,Female,South America
+2024-05-16 18:04:36.599853,192.168.0.1,GET,/index.html,404,user1,golf,Argentina,Male,South America
+2024-05-16 23:11:36.599853,10.0.0.1,GET,/about.html,200,user1,tennis,France,Female,Europe
+2024-05-22 14:31:36.599853,172.16.0.1,POST,/contact.html,200,user1,tennis,Australia,Female,Oceania
+2024-05-22 08:19:36.599853,10.0.0.1,GET,/about.html,404,user2,tennis,USA,Female,North America
+2024-05-22 22:39:36.599853,192.168.0.1,POST,/index.html,404,user2,tennis,India,Male,Asia
+2024-05-18 16:48:36.599853,10.0.0.1,POST,/contact.html,200,user3,tennis,China,Male,Asia
+2024-05-16 19:26:36.599853,172.16.0.1,GET,/about.html,200,user3,football,Brazil,Female,South America
+2024-05-17 07:25:36.599853,172.16.0.1,POST,/contact.html,200,user2,basketball,Germany,Female,Europe
+2024-05-22 20:20:36.599853,10.0.0.1,GET,/contact.html,404,user3,football,Argentina,Male,South America
+2024-05-18 14:55:36.599853,10.0.0.1,POST,/about.html,200,user2,football,Japan,Female,Asia
+2024-05-18 06:05:36.599853,10.0.0.1,GET,/index.html,200,user1,basketball,Fiji,Male,Oceania
+2024-05-18 09:50:36.599853,192.168.0.1,POST,/about.html,404,user2,golf,India,Male,Asia
+2024-05-20 22:28:36.599853,192.168.0.1,GET,/index.html,500,user2,football,India,Female,Asia
+2024-05-22 16:02:36.599853,192.168.0.1,GET,/about.html,500,user2,basketball,France,Female,Europe
+2024-05-20 22:45:36.599853,172.16.0.1,POST,/about.html,404,user2,soccer,USA,Male,North America
+2024-05-21 02:37:36.599853,192.168.0.1,GET,/index.html,404,user3,basketball,Kenya,Female,Africa
+2024-05-21 02:23:36.599853,172.16.0.1,GET,/index.html,404,user3,basketball,USA,Female,North America
+2024-05-18 18:21:36.599853,10.0.0.1,POST,/contact.html,404,user2,tennis,USA,Female,North America
+2024-05-22 22:50:36.599853,192.168.0.1,POST,/about.html,500,user1,golf,France,Male,Europe
+2024-05-16 19:53:36.599853,10.0.0.1,POST,/contact.html,404,user3,soccer,Argentina,Female,South America
+2024-05-22 20:03:36.599853,10.0.0.1,GET,/about.html,200,user2,tennis,Brazil,Female,South America
+2024-05-17 23:19:36.599853,10.0.0.1,POST,/index.html,404,user2,football,Fiji,Female,Oceania
+2024-05-21 06:29:36.599853,172.16.0.1,POST,/index.html,500,user1,basketball,New Zealand,Female,Oceania
+2024-05-16 12:19:36.599853,192.168.0.1,POST,/index.html,200,user2,golf,Argentina,Male,South America
+2024-05-17 03:08:36.599853,10.0.0.1,GET,/about.html,404,user3,tennis,Chile,Female,South America
+2024-05-16 04:50:36.599853,10.0.0.1,GET,/about.html,500,user1,tennis,Germany,Male,Europe
+2024-05-21 14:52:36.599853,10.0.0.1,POST,/about.html,500,user3,tennis,Mexico,Male,North America
+2024-05-17 12:44:36.599853,10.0.0.1,GET,/index.html,404,user2,soccer,Kenya,Male,Africa
+2024-05-22 20:14:36.599853,192.168.0.1,POST,/index.html,200,user1,basketball,China,Male,Asia
+2024-05-19 05:51:36.599853,172.16.0.1,POST,/contact.html,200,user1,tennis,India,Male,Asia
+2024-05-17 20:20:36.599853,192.168.0.1,GET,/index.html,500,user2,tennis,China,Male,Asia
+2024-05-16 04:41:36.599853,192.168.0.1,GET,/about.html,500,user2,tennis,USA,Female,North America
+2024-05-22 05:28:36.599853,172.16.0.1,GET,/contact.html,404,user3,soccer,Mexico,Male,North America
+2024-05-17 09:36:36.599853,192.168.0.1,POST,/contact.html,404,user2,tennis,Argentina,Male,South America
+2024-05-17 10:46:36.599853,10.0.0.1,POST,/index.html,200,user1,football,Germany,Male,Europe
+2024-05-18 21:19:36.599853,172.16.0.1,POST,/index.html,200,user3,tennis,Kenya,Female,Africa
+2024-05-21 02:20:36.599853,172.16.0.1,GET,/about.html,500,user2,basketball,Mexico,Male,North America
+2024-05-21 18:53:36.599853,172.16.0.1,POST,/contact.html,500,user2,football,Germany,Female,Europe
+2024-05-21 05:04:36.599853,192.168.0.1,GET,/about.html,404,user3,tennis,Brazil,Female,South America
+2024-05-16 20:46:36.599853,192.168.0.1,POST,/index.html,404,user3,golf,Nigeria,Male,Africa
+2024-05-16 13:06:36.599853,192.168.0.1,POST,/index.html,500,user2,football,France,Male,Europe
+2024-05-21 01:14:36.599853,192.168.0.1,POST,/index.html,404,user2,golf,France,Male,Europe
+2024-05-18 23:49:36.599853,10.0.0.1,GET,/about.html,200,user3,basketball,New Zealand,Female,Oceania
+2024-05-21 04:18:36.599853,10.0.0.1,GET,/index.html,404,user3,golf,Japan,Male,Asia
+2024-05-22 18:15:36.599853,10.0.0.1,POST,/index.html,404,user1,basketball,UK,Female,Europe
+2024-05-16 11:05:36.599853,192.168.0.1,GET,/about.html,200,user1,tennis,New Zealand,Male,Oceania
+2024-05-17 08:35:36.599853,192.168.0.1,GET,/contact.html,500,user2,basketball,USA,Male,North America
+2024-05-18 11:44:36.599853,192.168.0.1,POST,/contact.html,404,user3,golf,Nigeria,Male,Africa
+2024-05-18 15:46:36.599853,10.0.0.1,POST,/contact.html,404,user3,football,Chile,Male,South America
+2024-05-16 16:45:36.599853,10.0.0.1,GET,/index.html,404,user1,basketball,USA,Male,North America
+2024-05-21 21:31:36.599853,10.0.0.1,POST,/contact.html,200,user2,football,Australia,Male,Oceania
+2024-05-20 18:07:36.599853,10.0.0.1,POST,/index.html,500,user1,football,Mexico,Female,North America
+2024-05-19 22:59:36.599853,172.16.0.1,POST,/index.html,404,user3,golf,New Zealand,Male,Oceania
+2024-05-20 10:50:36.599853,192.168.0.1,POST,/about.html,500,user1,golf,Brazil,Male,South America
+2024-05-22 01:09:36.599853,192.168.0.1,POST,/about.html,404,user3,soccer,China,Male,Asia
+2024-05-17 12:12:36.599853,10.0.0.1,POST,/about.html,500,user3,football,USA,Male,North America
+2024-05-22 15:32:36.599853,172.16.0.1,GET,/about.html,500,user1,golf,USA,Female,North America
+2024-05-21 12:47:36.599853,172.16.0.1,POST,/contact.html,200,user1,golf,France,Male,Europe
+2024-05-21 07:39:36.599853,10.0.0.1,GET,/contact.html,404,user2,basketball,Germany,Female,Europe
+2024-05-19 15:54:36.599853,172.16.0.1,POST,/index.html,200,user1,basketball,UK,Female,Europe
+2024-05-20 21:40:36.599853,192.168.0.1,GET,/contact.html,200,user3,soccer,Chile,Male,South America
+2024-05-17 00:47:36.599853,192.168.0.1,GET,/contact.html,500,user1,football,India,Female,Asia
+2024-05-16 08:43:36.599853,172.16.0.1,POST,/about.html,200,user3,golf,Brazil,Female,South America
+2024-05-16 05:26:36.599853,172.16.0.1,GET,/about.html,404,user2,football,Nigeria,Male,Africa
+2024-05-21 02:16:36.599853,192.168.0.1,POST,/index.html,200,user1,football,Canada,Female,North America
+2024-05-17 15:06:36.599853,192.168.0.1,GET,/index.html,200,user1,golf,South Africa,Male,Africa
+2024-05-17 11:13:36.599853,172.16.0.1,GET,/contact.html,200,user1,soccer,Japan,Female,Asia
+2024-05-17 12:26:36.599853,10.0.0.1,POST,/contact.html,404,user3,basketball,Canada,Female,North America
+2024-05-22 15:23:36.599853,192.168.0.1,POST,/index.html,200,user3,football,South Africa,Female,Africa
+2024-05-21 17:33:36.599853,192.168.0.1,GET,/about.html,200,user1,basketball,Japan,Female,Asia
+2024-05-16 11:04:36.599853,172.16.0.1,GET,/index.html,200,user2,basketball,Germany,Male,Europe
+2024-05-17 19:09:36.599853,192.168.0.1,GET,/contact.html,404,user1,basketball,Australia,Female,Oceania
+2024-05-16 09:14:36.599853,172.16.0.1,POST,/index.html,404,user2,tennis,Mexico,Female,North America
+2024-05-19 08:05:36.599853,172.16.0.1,POST,/index.html,404,user2,tennis,China,Male,Asia
+2024-05-19 03:15:36.599853,192.168.0.1,GET,/about.html,200,user2,tennis,Chile,Female,South America
+2024-05-18 21:15:36.599853,172.16.0.1,GET,/index.html,200,user2,basketball,New Zealand,Male,Oceania
+2024-05-18 18:56:36.599853,192.168.0.1,GET,/contact.html,500,user1,football,USA,Female,North America
+2024-05-17 18:16:36.599853,10.0.0.1,GET,/contact.html,200,user3,soccer,Kenya,Female,Africa
+2024-05-21 10:09:36.599853,172.16.0.1,GET,/contact.html,500,user2,basketball,Argentina,Male,South America
+2024-05-19 14:05:36.599853,10.0.0.1,GET,/contact.html,500,user1,football,India,Male,Asia
+2024-05-19 22:45:36.599853,192.168.0.1,POST,/about.html,200,user2,soccer,Brazil,Female,South America
+2024-05-22 05:53:36.599853,10.0.0.1,POST,/about.html,500,user2,football,India,Female,Asia
+2024-05-17 18:35:36.599853,172.16.0.1,POST,/index.html,404,user1,football,USA,Male,North America
+2024-05-21 05:39:36.599853,192.168.0.1,GET,/contact.html,200,user1,basketball,China,Female,Asia
+2024-05-18 06:13:36.599853,10.0.0.1,GET,/contact.html,404,user1,football,France,Female,Europe
+2024-05-17 05:51:36.599853,10.0.0.1,GET,/index.html,500,user3,golf,South Africa,Male,Africa
+2024-05-17 05:33:36.599853,192.168.0.1,POST,/about.html,200,user3,soccer,China,Male,Asia
+2024-05-21 18:48:36.599853,10.0.0.1,POST,/contact.html,500,user3,tennis,China,Male,Asia
+2024-05-21 07:52:36.599853,192.168.0.1,POST,/index.html,500,user2,football,Brazil,Male,South America
+2024-05-22 12:09:36.599853,10.0.0.1,GET,/contact.html,500,user2,golf,Japan,Female,Asia
+2024-05-22 14:24:36.599853,10.0.0.1,POST,/contact.html,200,user2,basketball,Kenya,Female,Africa
+2024-05-20 04:18:36.599853,172.16.0.1,GET,/contact.html,500,user3,tennis,New Zealand,Female,Oceania
+2024-05-21 12:30:36.599853,10.0.0.1,GET,/contact.html,200,user2,golf,Germany,Female,Europe
+2024-05-19 04:10:36.599853,10.0.0.1,POST,/contact.html,200,user1,golf,France,Male,Europe
+2024-05-18 04:14:36.599853,192.168.0.1,POST,/contact.html,200,user1,golf,Germany,Female,Europe
+2024-05-16 15:00:36.599853,10.0.0.1,GET,/about.html,500,user2,golf,South Africa,Male,Africa
+2024-05-20 04:49:36.599853,192.168.0.1,POST,/contact.html,500,user1,tennis,China,Female,Asia
+2024-05-20 05:01:36.599853,172.16.0.1,POST,/about.html,404,user2,tennis,Brazil,Female,South America
+2024-05-18 11:35:36.599853,192.168.0.1,GET,/contact.html,500,user3,football,Chile,Male,South America
+2024-05-18 11:45:36.599853,172.16.0.1,GET,/index.html,200,user1,basketball,Australia,Female,Oceania
+2024-05-20 06:26:36.599853,172.16.0.1,GET,/about.html,500,user1,football,New Zealand,Male,Oceania
+2024-05-22 16:43:36.599853,172.16.0.1,GET,/contact.html,500,user1,basketball,Germany,Male,Europe
+2024-05-18 14:57:36.599853,172.16.0.1,POST,/about.html,200,user3,football,Mexico,Female,North America
+2024-05-18 19:35:36.599853,172.16.0.1,GET,/index.html,500,user3,football,Canada,Female,North America
+2024-05-17 05:45:36.599853,192.168.0.1,GET,/contact.html,404,user3,soccer,Brazil,Female,South America
+2024-05-17 10:15:36.599853,192.168.0.1,POST,/index.html,404,user1,golf,South Africa,Female,Africa
+2024-05-16 01:09:36.599853,10.0.0.1,POST,/contact.html,200,user1,soccer,UK,Male,Europe
+2024-05-20 07:26:36.599853,192.168.0.1,POST,/about.html,404,user2,basketball,Argentina,Male,South America
+2024-05-19 06:24:36.599853,172.16.0.1,GET,/contact.html,500,user1,basketball,India,Female,Asia
+2024-05-16 14:19:36.599853,10.0.0.1,POST,/index.html,200,user3,soccer,China,Male,Asia
+2024-05-19 14:46:36.599853,10.0.0.1,GET,/about.html,500,user1,golf,Chile,Female,South America
+2024-05-18 09:19:36.599853,172.16.0.1,GET,/index.html,500,user3,soccer,Canada,Male,North America
+2024-05-21 05:18:36.599853,10.0.0.1,POST,/about.html,200,user2,basketball,Canada,Female,North America
+2024-05-21 18:41:36.599853,10.0.0.1,POST,/index.html,200,user1,soccer,UK,Female,Europe
+2024-05-21 08:16:36.599853,10.0.0.1,POST,/contact.html,404,user3,golf,Nigeria,Female,Africa
+2024-05-18 10:18:36.599853,192.168.0.1,POST,/index.html,500,user3,football,Canada,Male,North America
+2024-05-19 06:57:36.599853,192.168.0.1,GET,/index.html,200,user3,basketball,Argentina,Female,South America
+2024-05-18 03:24:36.599853,192.168.0.1,POST,/about.html,404,user3,basketball,Argentina,Male,South America
+2024-05-17 01:52:36.599853,10.0.0.1,GET,/index.html,500,user3,football,Argentina,Female,South America
+2024-05-19 00:05:36.599853,192.168.0.1,POST,/about.html,404,user3,golf,UK,Male,Europe
+2024-05-16 23:46:36.599853,10.0.0.1,GET,/index.html,500,user1,golf,Fiji,Male,Oceania
+2024-05-16 09:11:36.599853,172.16.0.1,POST,/index.html,200,user2,tennis,Argentina,Female,South America
+2024-05-20 14:46:36.599853,10.0.0.1,POST,/contact.html,404,user1,tennis,Nigeria,Male,Africa
+2024-05-17 11:53:36.599853,10.0.0.1,GET,/index.html,404,user2,tennis,Argentina,Male,South America
+2024-05-19 07:53:36.599853,172.16.0.1,GET,/about.html,200,user1,soccer,India,Female,Asia
+2024-05-21 16:35:36.599853,192.168.0.1,GET,/index.html,404,user2,golf,Canada,Female,North America
+2024-05-17 09:45:36.599853,192.168.0.1,POST,/contact.html,200,user1,golf,Fiji,Female,Oceania
+2024-05-16 08:27:36.599853,192.168.0.1,GET,/index.html,200,user3,football,France,Male,Europe
+2024-05-21 15:55:36.599853,192.168.0.1,GET,/index.html,404,user2,golf,South Africa,Male,Africa
+2024-05-17 10:49:36.599853,192.168.0.1,GET,/index.html,200,user1,basketball,Fiji,Female,Oceania
+2024-05-18 13:36:36.599853,172.16.0.1,POST,/index.html,500,user3,tennis,Mexico,Male,North America
+2024-05-16 04:18:36.599853,172.16.0.1,POST,/about.html,200,user2,golf,France,Female,Europe
+2024-05-19 23:01:36.599853,192.168.0.1,GET,/index.html,404,user1,tennis,UK,Female,Europe
+2024-05-17 09:23:36.599853,172.16.0.1,GET,/about.html,200,user3,soccer,South Africa,Male,Africa
+2024-05-18 07:09:36.599853,10.0.0.1,POST,/index.html,500,user3,soccer,Mexico,Female,North America
+2024-05-18 16:32:36.599853,10.0.0.1,GET,/index.html,200,user3,golf,Fiji,Male,Oceania
+2024-05-22 12:30:36.599853,10.0.0.1,GET,/index.html,500,user1,basketball,Germany,Male,Europe
+2024-05-19 16:55:36.599853,172.16.0.1,GET,/index.html,404,user3,golf,Brazil,Male,South America
+2024-05-16 21:17:36.599853,192.168.0.1,GET,/contact.html,200,user3,tennis,UK,Male,Europe
+2024-05-20 15:26:36.599853,172.16.0.1,GET,/contact.html,200,user1,tennis,Mexico,Male,North America
+2024-05-20 11:09:36.599853,192.168.0.1,GET,/contact.html,500,user1,tennis,Chile,Female,South America
+2024-05-17 05:15:36.599853,172.16.0.1,POST,/index.html,500,user3,football,Japan,Female,Asia
+2024-05-20 18:53:36.599853,10.0.0.1,POST,/contact.html,500,user2,golf,India,Female,Asia
+2024-05-18 00:58:36.599853,10.0.0.1,GET,/index.html,500,user3,tennis,Kenya,Female,Africa
+2024-05-19 11:51:36.599853,10.0.0.1,POST,/index.html,404,user2,soccer,India,Female,Asia
+2024-05-17 03:57:36.599853,192.168.0.1,GET,/index.html,500,user2,football,China,Female,Asia
+2024-05-19 15:25:36.599853,172.16.0.1,GET,/about.html,500,user1,soccer,Brazil,Female,South America
+2024-05-18 09:54:36.599853,10.0.0.1,GET,/about.html,500,user3,golf,Japan,Male,Asia
+2024-05-18 06:36:36.599853,10.0.0.1,POST,/index.html,500,user1,tennis,Australia,Female,Oceania
+2024-05-22 10:52:36.599853,172.16.0.1,GET,/index.html,500,user1,golf,Chile,Male,South America
+2024-05-17 00:08:36.599853,172.16.0.1,POST,/index.html,200,user2,tennis,Nigeria,Male,Africa
+2024-05-22 05:08:36.599853,10.0.0.1,GET,/contact.html,404,user3,tennis,USA,Male,North America
+2024-05-20 06:36:36.599853,10.0.0.1,POST,/index.html,200,user3,football,UK,Male,Europe
+2024-05-17 04:41:36.599853,172.16.0.1,POST,/contact.html,404,user2,golf,Canada,Male,North America
+2024-05-20 01:52:36.599853,192.168.0.1,GET,/about.html,404,user1,basketball,USA,Female,North America
+2024-05-19 19:13:36.599853,172.16.0.1,GET,/about.html,404,user2,tennis,Japan,Female,Asia
+2024-05-22 20:00:36.599853,192.168.0.1,GET,/about.html,404,user1,soccer,Argentina,Female,South America
+2024-05-22 19:05:36.599853,172.16.0.1,GET,/index.html,404,user2,soccer,South Africa,Male,Africa
+2024-05-20 04:29:36.599853,10.0.0.1,GET,/index.html,200,user3,basketball,South Africa,Female,Africa
+2024-05-22 08:27:36.599853,192.168.0.1,GET,/contact.html,500,user1,basketball,China,Female,Asia
+2024-05-19 01:11:36.599853,192.168.0.1,GET,/index.html,500,user2,tennis,Australia,Female,Oceania
+2024-05-20 07:04:36.599853,172.16.0.1,GET,/contact.html,200,user1,tennis,Nigeria,Male,Africa
+2024-05-16 06:29:36.599853,192.168.0.1,GET,/contact.html,404,user2,basketball,South Africa,Male,Africa
+2024-05-21 12:39:36.599853,10.0.0.1,GET,/contact.html,404,user1,soccer,Argentina,Male,South America
+2024-05-17 22:47:36.599853,192.168.0.1,GET,/about.html,404,user3,soccer,South Africa,Female,Africa
+2024-05-21 01:51:36.599853,10.0.0.1,GET,/contact.html,404,user1,soccer,China,Female,Asia
+2024-05-16 08:45:36.599853,192.168.0.1,POST,/about.html,500,user2,golf,France,Female,Europe
+2024-05-21 03:53:36.599853,192.168.0.1,POST,/index.html,500,user3,basketball,Nigeria,Female,Africa
+2024-05-18 01:33:36.599853,172.16.0.1,GET,/contact.html,404,user1,golf,Australia,Female,Oceania
+2024-05-20 16:31:36.599853,192.168.0.1,POST,/about.html,200,user1,football,Kenya,Female,Africa
+2024-05-19 16:43:36.599853,10.0.0.1,GET,/index.html,500,user1,golf,Mexico,Male,North America
+2024-05-16 06:40:36.599853,10.0.0.1,GET,/about.html,404,user2,golf,India,Male,Asia
+2024-05-22 22:52:36.599853,10.0.0.1,GET,/about.html,200,user2,football,Japan,Female,Asia
+2024-05-19 07:15:36.599853,192.168.0.1,POST,/about.html,200,user2,tennis,Germany,Female,Europe
+2024-05-20 11:07:36.599853,172.16.0.1,POST,/contact.html,200,user3,basketball,South Africa,Male,Africa
+2024-05-19 13:09:36.599853,192.168.0.1,GET,/about.html,404,user1,basketball,Canada,Female,North America
+2024-05-20 09:45:36.599853,10.0.0.1,GET,/contact.html,404,user3,football,Japan,Female,Asia
+2024-05-19 22:06:36.599853,192.168.0.1,POST,/about.html,500,user3,soccer,India,Female,Asia
+2024-05-21 21:40:36.599853,10.0.0.1,GET,/index.html,500,user1,tennis,Brazil,Male,South America
+2024-05-20 08:59:36.599853,192.168.0.1,GET,/about.html,500,user3,soccer,UK,Female,Europe
+2024-05-20 05:57:36.599853,192.168.0.1,GET,/about.html,200,user2,tennis,Canada,Female,North America
+2024-05-16 20:05:36.599853,192.168.0.1,POST,/contact.html,500,user1,football,Australia,Male,Oceania
+2024-05-21 21:36:36.599853,10.0.0.1,POST,/contact.html,404,user1,golf,Argentina,Female,South America
+2024-05-21 16:43:36.599853,192.168.0.1,POST,/contact.html,500,user1,tennis,China,Female,Asia
+2024-05-20 22:52:36.599853,192.168.0.1,GET,/index.html,200,user3,football,New Zealand,Female,Oceania
+2024-05-20 04:44:36.599853,172.16.0.1,POST,/contact.html,200,user2,football,Mexico,Female,North America
+2024-05-19 12:25:36.599853,10.0.0.1,GET,/index.html,500,user3,tennis,UK,Female,Europe
+2024-05-17 17:04:36.599853,10.0.0.1,GET,/contact.html,200,user3,tennis,USA,Female,North America
+2024-05-22 04:15:36.599853,172.16.0.1,GET,/contact.html,404,user3,golf,Kenya,Female,Africa
+2024-05-20 18:26:36.599853,192.168.0.1,POST,/index.html,500,user1,golf,South Africa,Male,Africa
+2024-05-22 08:07:36.599853,10.0.0.1,GET,/about.html,200,user2,basketball,Australia,Male,Oceania
+2024-05-16 11:44:36.599853,172.16.0.1,GET,/about.html,500,user1,soccer,New Zealand,Female,Oceania
+2024-05-22 00:13:36.599853,10.0.0.1,GET,/contact.html,404,user2,golf,UK,Male,Europe
+2024-05-22 23:01:36.599853,10.0.0.1,POST,/about.html,200,user1,football,Chile,Female,South America
+2024-05-17 06:47:36.599853,192.168.0.1,GET,/index.html,500,user3,golf,France,Male,Europe
+2024-05-16 02:57:36.599853,10.0.0.1,GET,/contact.html,500,user3,soccer,South Africa,Male,Africa
+2024-05-19 19:09:36.599853,192.168.0.1,GET,/index.html,200,user3,tennis,Kenya,Male,Africa
+2024-05-16 05:30:36.599853,172.16.0.1,GET,/contact.html,500,user3,golf,Brazil,Female,South America
+2024-05-22 01:43:36.599853,192.168.0.1,POST,/index.html,500,user1,football,Brazil,Male,South America
+2024-05-19 00:06:36.599853,10.0.0.1,POST,/about.html,500,user3,basketball,France,Female,Europe
+2024-05-21 21:57:36.599853,10.0.0.1,POST,/index.html,200,user1,tennis,Chile,Female,South America
+2024-05-22 14:46:36.599853,172.16.0.1,GET,/contact.html,200,user1,football,Chile,Male,South America
+2024-05-16 20:32:36.599853,10.0.0.1,GET,/about.html,500,user2,tennis,New Zealand,Female,Oceania
+2024-05-19 09:30:36.599853,10.0.0.1,POST,/contact.html,404,user2,soccer,Canada,Male,North America
+2024-05-22 04:30:36.599853,10.0.0.1,GET,/about.html,200,user3,football,Chile,Male,South America
+2024-05-17 12:35:36.599853,192.168.0.1,POST,/contact.html,200,user3,basketball,USA,Male,North America
+2024-05-17 18:58:36.599853,172.16.0.1,POST,/about.html,404,user1,soccer,Brazil,Male,South America
+2024-05-16 07:03:36.599853,172.16.0.1,GET,/about.html,404,user3,soccer,Germany,Female,Europe
+2024-05-17 23:59:36.599853,10.0.0.1,GET,/contact.html,404,user3,basketball,Germany,Male,Europe
+2024-05-18 23:26:36.599853,172.16.0.1,GET,/contact.html,404,user3,tennis,China,Female,Asia
+2024-05-22 04:02:36.599853,10.0.0.1,GET,/about.html,200,user3,soccer,Australia,Male,Oceania
+2024-05-19 17:42:36.599853,192.168.0.1,GET,/contact.html,404,user3,tennis,Germany,Male,Europe
+2024-05-19 08:17:36.599853,10.0.0.1,POST,/index.html,200,user1,tennis,Mexico,Male,North America
+2024-05-22 18:35:36.599853,10.0.0.1,POST,/index.html,404,user2,soccer,Mexico,Male,North America
+2024-05-20 00:57:36.599853,10.0.0.1,POST,/contact.html,404,user2,soccer,Kenya,Female,Africa
+2024-05-18 13:11:36.599853,10.0.0.1,POST,/contact.html,500,user1,golf,Brazil,Male,South America
+2024-05-20 03:48:36.599853,172.16.0.1,GET,/index.html,500,user2,football,France,Male,Europe
+2024-05-16 18:03:36.599853,192.168.0.1,POST,/about.html,500,user2,tennis,France,Male,Europe
+2024-05-16 11:26:36.599853,192.168.0.1,POST,/contact.html,404,user3,soccer,Australia,Female,Oceania
+2024-05-17 01:29:36.599853,10.0.0.1,POST,/about.html,404,user3,basketball,Brazil,Female,South America
+2024-05-18 14:01:36.599853,10.0.0.1,GET,/about.html,200,user2,soccer,India,Male,Asia
+2024-05-19 11:51:36.599853,192.168.0.1,GET,/index.html,500,user1,basketball,China,Male,Asia
+2024-05-21 19:05:36.599853,172.16.0.1,POST,/contact.html,500,user2,basketball,Chile,Female,South America
+2024-05-21 00:54:36.599853,10.0.0.1,POST,/index.html,500,user1,tennis,Fiji,Male,Oceania
+2024-05-22 14:13:36.599853,172.16.0.1,POST,/about.html,200,user2,tennis,Brazil,Female,South America
+2024-05-18 02:31:36.599853,192.168.0.1,POST,/index.html,500,user3,basketball,Argentina,Female,South America
+2024-05-22 07:06:36.599853,10.0.0.1,POST,/contact.html,500,user3,tennis,Fiji,Male,Oceania
+2024-05-17 19:15:36.599853,10.0.0.1,GET,/contact.html,404,user1,golf,Mexico,Female,North America
+2024-05-21 16:37:36.599853,10.0.0.1,GET,/contact.html,200,user2,tennis,Nigeria,Female,Africa
+2024-05-16 11:14:36.599853,10.0.0.1,GET,/about.html,200,user2,football,UK,Female,Europe
+2024-05-17 14:41:36.599853,172.16.0.1,POST,/index.html,500,user1,golf,China,Male,Asia
+2024-05-21 05:16:36.599853,192.168.0.1,GET,/about.html,200,user1,golf,USA,Female,North America
+2024-05-22 03:52:36.599853,192.168.0.1,POST,/about.html,404,user2,golf,Germany,Female,Europe
+2024-05-22 02:27:36.599853,172.16.0.1,GET,/contact.html,404,user2,soccer,Japan,Male,Asia
+2024-05-20 04:33:36.599853,10.0.0.1,GET,/index.html,500,user1,soccer,Canada,Male,North America
+2024-05-18 17:58:36.599853,10.0.0.1,GET,/index.html,404,user2,golf,UK,Female,Europe
+2024-05-20 12:30:36.599853,192.168.0.1,GET,/about.html,404,user3,soccer,Kenya,Male,Africa
+2024-05-22 20:41:36.599853,10.0.0.1,GET,/contact.html,404,user2,basketball,Germany,Female,Europe
+2024-05-16 09:38:36.599853,10.0.0.1,GET,/contact.html,500,user3,golf,Fiji,Male,Oceania
+2024-05-22 14:16:36.599853,10.0.0.1,GET,/index.html,200,user2,tennis,Japan,Female,Asia
+2024-05-18 02:06:36.599853,172.16.0.1,GET,/index.html,500,user3,golf,Japan,Male,Asia
+2024-05-16 02:03:36.599853,172.16.0.1,POST,/about.html,500,user3,basketball,Australia,Male,Oceania
+2024-05-20 12:51:36.599853,172.16.0.1,POST,/about.html,500,user1,soccer,UK,Male,Europe
+2024-05-22 00:15:36.599853,192.168.0.1,GET,/about.html,404,user2,basketball,India,Female,Asia
+2024-05-22 14:50:36.599853,10.0.0.1,GET,/about.html,200,user3,basketball,Fiji,Female,Oceania
+2024-05-20 04:53:36.599853,10.0.0.1,GET,/about.html,500,user1,soccer,France,Male,Europe
+2024-05-17 22:56:36.599853,192.168.0.1,POST,/about.html,500,user2,golf,Japan,Female,Asia
+2024-05-16 10:19:36.599853,172.16.0.1,GET,/index.html,404,user1,soccer,Australia,Male,Oceania
+2024-05-20 17:18:36.599853,192.168.0.1,GET,/index.html,500,user3,basketball,Japan,Male,Asia
+2024-05-17 05:05:36.599853,10.0.0.1,POST,/contact.html,200,user1,soccer,South Africa,Female,Africa
+2024-05-22 13:08:36.599853,192.168.0.1,POST,/about.html,404,user1,soccer,Nigeria,Female,Africa
+2024-05-18 02:58:36.599853,172.16.0.1,GET,/index.html,404,user2,soccer,India,Male,Asia
+2024-05-17 03:55:36.599853,10.0.0.1,POST,/contact.html,500,user2,football,UK,Female,Europe
+2024-05-20 20:05:36.599853,192.168.0.1,POST,/contact.html,500,user1,football,China,Female,Asia
+2024-05-18 08:21:36.599853,172.16.0.1,POST,/index.html,200,user2,tennis,Japan,Female,Asia
+2024-05-16 17:09:36.599853,10.0.0.1,POST,/index.html,200,user1,football,Germany,Male,Europe
+2024-05-16 08:10:36.599853,10.0.0.1,POST,/about.html,404,user1,soccer,France,Male,Europe
+2024-05-20 19:07:36.599853,192.168.0.1,GET,/contact.html,200,user3,golf,USA,Female,North America
+2024-05-19 11:16:36.599853,192.168.0.1,POST,/about.html,404,user1,soccer,South Africa,Male,Africa
+2024-05-21 13:13:36.599853,192.168.0.1,GET,/contact.html,404,user1,tennis,USA,Male,North America
+2024-05-19 02:51:36.599853,172.16.0.1,GET,/index.html,500,user1,soccer,Argentina,Female,South America
+2024-05-17 04:33:36.599853,172.16.0.1,POST,/about.html,500,user2,golf,Chile,Female,South America
+2024-05-20 10:02:36.599853,10.0.0.1,POST,/contact.html,200,user3,basketball,China,Female,Asia
+2024-05-19 04:13:36.599853,10.0.0.1,POST,/about.html,200,user3,soccer,Canada,Male,North America
+2024-05-20 03:49:36.599853,172.16.0.1,POST,/about.html,500,user3,basketball,Mexico,Male,North America
+2024-05-19 17:46:36.599853,10.0.0.1,GET,/index.html,200,user1,tennis,USA,Male,North America
+2024-05-17 06:29:36.599853,10.0.0.1,POST,/index.html,500,user1,football,Brazil,Female,South America
+2024-05-19 15:04:36.599853,172.16.0.1,GET,/contact.html,200,user1,football,Chile,Male,South America
+2024-05-20 08:50:36.599853,10.0.0.1,POST,/about.html,500,user2,soccer,Japan,Male,Asia
+2024-05-22 15:34:36.599853,10.0.0.1,GET,/index.html,500,user3,football,Japan,Female,Asia
+2024-05-17 00:49:36.599853,192.168.0.1,POST,/about.html,404,user2,soccer,Kenya,Male,Africa
+2024-05-21 03:20:36.599853,172.16.0.1,GET,/index.html,500,user1,golf,Japan,Male,Asia
+2024-05-19 00:07:36.599853,10.0.0.1,POST,/about.html,500,user3,soccer,USA,Male,North America
+2024-05-17 11:22:36.599853,172.16.0.1,GET,/about.html,404,user3,soccer,Australia,Female,Oceania
+2024-05-16 13:49:36.599853,10.0.0.1,POST,/about.html,404,user1,football,USA,Female,North America
+2024-05-16 09:17:36.599853,192.168.0.1,GET,/about.html,404,user1,basketball,Japan,Male,Asia
+2024-05-17 14:08:36.599853,192.168.0.1,POST,/index.html,500,user1,basketball,Brazil,Female,South America
+2024-05-17 22:15:36.599853,192.168.0.1,POST,/contact.html,200,user2,basketball,UK,Male,Europe
+2024-05-19 21:25:36.599853,172.16.0.1,POST,/about.html,404,user2,basketball,South Africa,Female,Africa
+2024-05-22 06:37:36.599853,10.0.0.1,GET,/index.html,500,user3,soccer,USA,Female,North America
+2024-05-16 19:31:36.599853,192.168.0.1,GET,/index.html,200,user3,tennis,India,Female,Asia
+2024-05-19 13:18:36.599853,10.0.0.1,GET,/about.html,500,user2,golf,Germany,Male,Europe
+2024-05-16 09:35:36.599853,10.0.0.1,GET,/about.html,500,user2,soccer,Fiji,Female,Oceania
+2024-05-20 15:18:36.599853,172.16.0.1,POST,/index.html,500,user3,basketball,USA,Female,North America
+2024-05-17 20:23:36.599853,172.16.0.1,GET,/about.html,404,user2,football,South Africa,Male,Africa
+2024-05-20 15:21:36.599853,192.168.0.1,POST,/contact.html,404,user3,football,Chile,Male,South America
+2024-05-20 16:52:36.599853,10.0.0.1,GET,/about.html,500,user3,soccer,France,Male,Europe
+2024-05-20 08:32:36.599853,10.0.0.1,POST,/index.html,500,user1,golf,Australia,Male,Oceania
+2024-05-22 11:48:36.599853,172.16.0.1,POST,/about.html,200,user2,football,India,Male,Asia
+2024-05-22 13:39:36.599853,172.16.0.1,POST,/index.html,200,user2,football,Nigeria,Female,Africa
+2024-05-22 03:16:36.599853,192.168.0.1,GET,/about.html,404,user2,golf,Argentina,Male,South America
+2024-05-20 02:36:36.599853,10.0.0.1,GET,/contact.html,404,user3,golf,Nigeria,Male,Africa
+2024-05-20 20:30:36.599853,172.16.0.1,GET,/contact.html,500,user2,basketball,India,Female,Asia
+2024-05-16 04:25:36.599853,10.0.0.1,POST,/about.html,200,user3,soccer,USA,Female,North America
+2024-05-22 13:23:36.599853,192.168.0.1,POST,/about.html,200,user3,golf,South Africa,Male,Africa
+2024-05-21 07:35:36.599853,172.16.0.1,POST,/about.html,500,user3,football,France,Male,Europe
+2024-05-18 08:18:36.599853,172.16.0.1,POST,/contact.html,500,user3,basketball,UK,Female,Europe
+2024-05-16 07:45:36.599853,10.0.0.1,GET,/index.html,200,user1,football,UK,Male,Europe
+2024-05-19 08:07:36.599853,172.16.0.1,POST,/index.html,200,user2,tennis,Mexico,Male,North America
+2024-05-19 13:03:36.599853,192.168.0.1,POST,/contact.html,404,user1,tennis,South Africa,Female,Africa
+2024-05-18 16:31:36.599853,192.168.0.1,POST,/about.html,500,user1,football,Mexico,Male,North America
+2024-05-17 02:31:36.599853,10.0.0.1,GET,/contact.html,200,user2,football,Australia,Female,Oceania
+2024-05-19 19:53:36.599853,192.168.0.1,GET,/about.html,200,user2,golf,Chile,Male,South America
+2024-05-17 05:45:36.599853,172.16.0.1,GET,/index.html,500,user2,golf,Japan,Male,Asia
+2024-05-19 03:24:36.599853,172.16.0.1,POST,/contact.html,404,user1,football,India,Female,Asia
+2024-05-17 01:09:36.599853,172.16.0.1,POST,/index.html,500,user1,golf,Germany,Male,Europe
+2024-05-16 15:13:36.599853,192.168.0.1,GET,/about.html,200,user1,football,France,Male,Europe
+2024-05-18 06:09:36.599853,172.16.0.1,GET,/contact.html,404,user2,football,Brazil,Male,South America
+2024-05-16 17:04:36.599853,172.16.0.1,GET,/contact.html,200,user1,tennis,Argentina,Female,South America
+2024-05-20 18:01:36.599853,172.16.0.1,POST,/index.html,404,user3,soccer,Australia,Male,Oceania
+2024-05-22 03:02:36.599853,192.168.0.1,POST,/index.html,500,user3,tennis,UK,Female,Europe
+2024-05-17 07:54:36.599853,172.16.0.1,GET,/contact.html,404,user3,tennis,Brazil,Female,South America
+2024-05-18 19:39:36.599853,10.0.0.1,POST,/index.html,500,user1,soccer,Canada,Female,North America
+2024-05-16 06:34:36.599853,192.168.0.1,GET,/index.html,404,user2,football,New Zealand,Female,Oceania
+2024-05-22 07:43:36.599853,10.0.0.1,GET,/index.html,500,user3,football,South Africa,Female,Africa
+2024-05-19 19:36:36.599853,192.168.0.1,GET,/about.html,404,user3,soccer,USA,Female,North America
+2024-05-21 10:57:36.599853,192.168.0.1,GET,/index.html,200,user3,tennis,South Africa,Male,Africa
+2024-05-20 18:09:36.599853,172.16.0.1,POST,/about.html,404,user2,soccer,Germany,Male,Europe
+2024-05-17 16:59:36.599853,172.16.0.1,GET,/index.html,200,user1,basketball,Argentina,Male,South America
+2024-05-22 14:01:36.599853,192.168.0.1,GET,/contact.html,200,user3,tennis,USA,Female,North America
+2024-05-21 01:19:36.599853,172.16.0.1,POST,/contact.html,500,user3,golf,South Africa,Female,Africa
+2024-05-20 10:27:36.599853,172.16.0.1,POST,/about.html,200,user2,soccer,South Africa,Male,Africa
+2024-05-17 19:22:36.599853,192.168.0.1,GET,/contact.html,200,user1,golf,Fiji,Female,Oceania
+2024-05-21 13:42:36.599853,172.16.0.1,GET,/about.html,200,user3,football,Argentina,Female,South America
+2024-05-19 10:29:36.599853,192.168.0.1,POST,/index.html,200,user2,golf,Kenya,Female,Africa
+2024-05-16 14:55:36.599853,172.16.0.1,GET,/contact.html,500,user2,football,China,Male,Asia
+2024-05-19 08:40:36.599853,192.168.0.1,GET,/contact.html,404,user3,tennis,Canada,Male,North America
+2024-05-21 00:46:36.599853,172.16.0.1,GET,/about.html,500,user3,basketball,Argentina,Female,South America
+2024-05-18 01:38:36.599853,172.16.0.1,POST,/index.html,200,user3,basketball,Germany,Female,Europe
+2024-05-20 10:49:36.599853,10.0.0.1,POST,/contact.html,500,user1,tennis,Australia,Female,Oceania
+2024-05-17 10:52:36.599853,172.16.0.1,POST,/about.html,500,user2,football,USA,Male,North America
+2024-05-17 12:14:36.599853,192.168.0.1,GET,/contact.html,200,user1,golf,India,Female,Asia
+2024-05-18 08:10:36.599853,192.168.0.1,GET,/about.html,200,user2,basketball,Chile,Female,South America
+2024-05-22 01:03:36.599853,172.16.0.1,POST,/contact.html,500,user3,basketball,Japan,Male,Asia
+2024-05-19 16:06:36.599853,172.16.0.1,POST,/index.html,404,user3,golf,France,Female,Europe
+2024-05-19 08:19:36.599853,192.168.0.1,GET,/contact.html,200,user3,golf,Fiji,Female,Oceania
+2024-05-21 01:06:36.599853,172.16.0.1,POST,/index.html,200,user1,basketball,USA,Male,North America
+2024-05-20 13:01:36.599853,192.168.0.1,GET,/contact.html,404,user3,basketball,Japan,Male,Asia
+2024-05-22 18:17:36.599853,192.168.0.1,POST,/about.html,200,user3,football,Australia,Male,Oceania
+2024-05-18 23:09:36.599853,10.0.0.1,POST,/contact.html,404,user2,football,New Zealand,Female,Oceania
+2024-05-18 11:08:36.599853,172.16.0.1,POST,/about.html,404,user3,football,Chile,Male,South America
+2024-05-22 17:17:36.599853,172.16.0.1,POST,/index.html,500,user2,basketball,Brazil,Female,South America
+2024-05-20 10:08:36.599853,10.0.0.1,POST,/index.html,404,user2,soccer,China,Male,Asia
+2024-05-21 09:11:36.599853,172.16.0.1,POST,/contact.html,200,user1,football,Chile,Male,South America
+2024-05-21 13:54:36.599853,10.0.0.1,POST,/index.html,404,user2,basketball,Nigeria,Female,Africa
+2024-05-19 17:16:36.599853,172.16.0.1,GET,/about.html,500,user3,basketball,Mexico,Female,North America
+2024-05-21 05:48:36.599853,192.168.0.1,POST,/contact.html,200,user3,basketball,Mexico,Male,North America
+2024-05-16 14:07:36.599853,10.0.0.1,POST,/contact.html,200,user1,golf,Mexico,Male,North America
+2024-05-20 18:02:36.599853,10.0.0.1,GET,/contact.html,200,user3,football,Canada,Male,North America
+2024-05-18 17:10:36.599853,172.16.0.1,GET,/contact.html,200,user2,tennis,Brazil,Female,South America
+2024-05-18 01:43:36.599853,192.168.0.1,GET,/about.html,404,user1,football,Kenya,Female,Africa
+2024-05-22 23:35:36.599853,192.168.0.1,GET,/index.html,200,user3,tennis,France,Female,Europe
+2024-05-19 07:45:36.599853,192.168.0.1,GET,/about.html,404,user3,golf,Argentina,Female,South America
+2024-05-20 04:44:36.599853,192.168.0.1,POST,/index.html,200,user2,tennis,Fiji,Female,Oceania
+2024-05-20 00:21:36.599853,10.0.0.1,GET,/about.html,200,user1,soccer,Germany,Male,Europe
+2024-05-21 07:50:36.599853,192.168.0.1,POST,/about.html,404,user1,football,Kenya,Male,Africa
+2024-05-21 09:33:36.599853,10.0.0.1,POST,/contact.html,500,user2,football,Brazil,Male,South America
+2024-05-17 06:56:36.599853,10.0.0.1,GET,/contact.html,404,user2,tennis,Brazil,Male,South America
+2024-05-22 13:36:36.599853,192.168.0.1,POST,/index.html,500,user3,golf,Nigeria,Male,Africa
+2024-05-21 18:12:36.599853,172.16.0.1,GET,/contact.html,200,user1,football,Kenya,Female,Africa
+2024-05-18 11:00:36.599853,192.168.0.1,GET,/about.html,404,user2,golf,Argentina,Female,South America
+2024-05-18 00:14:36.599853,10.0.0.1,POST,/contact.html,404,user2,basketball,Nigeria,Male,Africa
+2024-05-17 17:22:36.599853,172.16.0.1,POST,/about.html,500,user1,golf,Mexico,Female,North America
+2024-05-22 09:38:36.599853,172.16.0.1,POST,/index.html,200,user1,football,France,Female,Europe
+2024-05-18 22:37:36.599853,172.16.0.1,GET,/index.html,404,user3,basketball,New Zealand,Male,Oceania
+2024-05-22 08:07:36.599853,172.16.0.1,GET,/index.html,404,user3,football,South Africa,Female,Africa
+2024-05-21 18:36:36.599853,172.16.0.1,POST,/contact.html,404,user3,football,China,Female,Asia
+2024-05-21 11:38:36.599853,172.16.0.1,POST,/index.html,404,user3,soccer,Fiji,Female,Oceania
+2024-05-16 13:09:36.599853,10.0.0.1,GET,/about.html,404,user2,soccer,Brazil,Female,South America
+2024-05-19 19:43:36.599853,10.0.0.1,POST,/about.html,200,user1,soccer,Chile,Male,South America
+2024-05-17 04:23:36.599853,172.16.0.1,POST,/contact.html,404,user3,football,Japan,Female,Asia
+2024-05-17 18:15:36.599853,192.168.0.1,POST,/contact.html,404,user2,soccer,Chile,Female,South America
+2024-05-22 00:18:36.599853,192.168.0.1,POST,/about.html,200,user2,soccer,Canada,Male,North America
+2024-05-22 21:27:36.599853,192.168.0.1,GET,/contact.html,200,user3,tennis,Argentina,Female,South America
+2024-05-22 20:34:36.599853,172.16.0.1,POST,/index.html,200,user1,golf,Mexico,Female,North America
+2024-05-18 10:21:36.599853,172.16.0.1,POST,/index.html,200,user2,soccer,France,Female,Europe
+2024-05-17 02:47:36.599853,192.168.0.1,POST,/about.html,404,user3,tennis,Argentina,Male,South America
+2024-05-16 02:41:36.599853,172.16.0.1,GET,/index.html,500,user2,football,Mexico,Female,North America
+2024-05-17 18:53:36.599853,172.16.0.1,POST,/index.html,404,user3,basketball,UK,Male,Europe
+2024-05-16 03:26:36.599853,10.0.0.1,POST,/contact.html,404,user2,golf,Kenya,Female,Africa
+2024-05-18 12:52:36.599853,10.0.0.1,POST,/about.html,500,user1,football,Argentina,Male,South America
+2024-05-16 02:52:36.599853,172.16.0.1,GET,/contact.html,500,user2,football,New Zealand,Female,Oceania
+2024-05-16 09:34:36.599853,192.168.0.1,POST,/contact.html,404,user1,basketball,Chile,Female,South America
+2024-05-20 17:57:36.599853,10.0.0.1,POST,/index.html,200,user1,soccer,France,Male,Europe
+2024-05-19 07:50:36.599853,172.16.0.1,GET,/index.html,500,user3,basketball,Mexico,Female,North America
+2024-05-19 13:49:36.599853,172.16.0.1,GET,/contact.html,404,user3,tennis,Germany,Female,Europe
+2024-05-22 04:47:36.599853,192.168.0.1,POST,/about.html,404,user2,soccer,France,Female,Europe
+2024-05-17 09:32:36.599853,10.0.0.1,GET,/about.html,500,user3,golf,India,Male,Asia
+2024-05-17 01:02:36.599853,10.0.0.1,GET,/index.html,200,user1,basketball,USA,Male,North America
+2024-05-16 19:21:36.599853,172.16.0.1,GET,/index.html,404,user2,basketball,South Africa,Female,Africa
+2024-05-16 09:17:36.599853,192.168.0.1,GET,/about.html,500,user3,soccer,South Africa,Male,Africa
+2024-05-16 09:33:36.599853,10.0.0.1,POST,/index.html,404,user3,basketball,Argentina,Male,South America
+2024-05-22 06:51:36.599853,172.16.0.1,POST,/contact.html,200,user2,basketball,Japan,Female,Asia
+2024-05-22 11:35:36.599853,10.0.0.1,GET,/index.html,404,user1,football,Mexico,Female,North America
+2024-05-21 02:21:36.599853,10.0.0.1,GET,/index.html,500,user2,golf,New Zealand,Female,Oceania
+2024-05-16 07:47:36.599853,172.16.0.1,GET,/contact.html,500,user2,tennis,Australia,Male,Oceania
+2024-05-21 16:03:36.599853,172.16.0.1,GET,/index.html,200,user1,basketball,South Africa,Female,Africa
+2024-05-17 16:02:36.599853,172.16.0.1,POST,/index.html,200,user2,football,USA,Male,North America
+2024-05-17 05:42:36.599853,10.0.0.1,POST,/about.html,500,user3,golf,Canada,Male,North America
+2024-05-22 04:12:36.599853,10.0.0.1,GET,/contact.html,200,user2,football,Argentina,Male,South America
+2024-05-21 12:56:36.599853,10.0.0.1,POST,/contact.html,404,user3,tennis,Argentina,Female,South America
+2024-05-22 19:11:36.599853,10.0.0.1,GET,/index.html,500,user1,tennis,Fiji,Male,Oceania
+2024-05-21 09:10:36.599853,192.168.0.1,GET,/about.html,200,user2,golf,India,Female,Asia
+2024-05-21 22:33:36.599853,172.16.0.1,POST,/contact.html,404,user3,tennis,Kenya,Male,Africa
+2024-05-21 09:25:36.599853,10.0.0.1,GET,/contact.html,500,user3,golf,Brazil,Female,South America
+2024-05-16 01:18:36.599853,192.168.0.1,POST,/contact.html,500,user1,soccer,Chile,Female,South America
+2024-05-20 10:37:36.599853,10.0.0.1,POST,/about.html,500,user1,golf,Nigeria,Female,Africa
+2024-05-22 21:50:36.599853,192.168.0.1,GET,/index.html,404,user2,football,Mexico,Male,North America
+2024-05-21 18:14:36.599853,192.168.0.1,GET,/contact.html,404,user1,basketball,France,Female,Europe
+2024-05-19 01:53:36.599853,10.0.0.1,POST,/index.html,500,user3,basketball,India,Female,Asia
+2024-05-18 05:58:36.599853,10.0.0.1,POST,/contact.html,500,user3,golf,Germany,Male,Europe
+2024-05-19 08:38:36.599853,172.16.0.1,GET,/index.html,500,user3,soccer,Japan,Female,Asia
+2024-05-17 22:31:36.599853,172.16.0.1,POST,/about.html,404,user1,golf,Japan,Female,Asia
+2024-05-18 08:03:36.599853,10.0.0.1,GET,/contact.html,500,user2,soccer,South Africa,Female,Africa
+2024-05-20 12:34:36.599853,10.0.0.1,GET,/about.html,404,user1,basketball,Mexico,Male,North America
+2024-05-21 10:05:36.599853,10.0.0.1,POST,/contact.html,500,user1,football,Chile,Female,South America
+2024-05-20 20:17:36.599853,10.0.0.1,GET,/about.html,200,user3,golf,Germany,Male,Europe
+2024-05-18 07:36:36.599853,192.168.0.1,POST,/index.html,200,user2,soccer,Chile,Male,South America
+2024-05-22 20:16:36.599853,192.168.0.1,GET,/index.html,200,user2,basketball,USA,Female,North America
+2024-05-19 15:06:36.599853,10.0.0.1,POST,/contact.html,200,user2,tennis,Australia,Male,Oceania
+2024-05-19 14:44:36.599853,172.16.0.1,GET,/index.html,200,user3,football,Germany,Male,Europe
+2024-05-21 17:23:36.599853,192.168.0.1,POST,/about.html,500,user3,golf,India,Male,Asia
+2024-05-19 23:50:36.599853,10.0.0.1,GET,/index.html,200,user2,football,Germany,Male,Europe
+2024-05-18 05:58:36.599853,192.168.0.1,GET,/index.html,200,user1,soccer,Germany,Male,Europe
+2024-05-19 13:07:36.599853,172.16.0.1,POST,/index.html,404,user3,golf,Australia,Female,Oceania
+2024-05-20 06:15:36.599853,192.168.0.1,POST,/index.html,404,user1,soccer,Fiji,Male,Oceania
+2024-05-19 00:50:36.599853,172.16.0.1,POST,/about.html,500,user1,basketball,Germany,Female,Europe
+2024-05-18 14:50:36.599853,192.168.0.1,POST,/contact.html,500,user1,football,USA,Male,North America
+2024-05-16 09:54:36.599853,172.16.0.1,POST,/index.html,404,user3,football,Canada,Female,North America
+2024-05-20 12:49:36.599853,10.0.0.1,POST,/about.html,500,user1,basketball,Germany,Female,Europe
+2024-05-18 18:53:36.599853,172.16.0.1,POST,/contact.html,500,user3,basketball,South Africa,Male,Africa
+2024-05-19 16:06:36.599853,192.168.0.1,POST,/about.html,404,user3,basketball,Chile,Male,South America
+2024-05-20 04:34:36.599853,172.16.0.1,POST,/contact.html,200,user3,tennis,Germany,Female,Europe
+2024-05-17 09:36:36.599853,192.168.0.1,POST,/about.html,200,user2,football,Mexico,Female,North America
+2024-05-18 22:20:36.599853,172.16.0.1,POST,/contact.html,500,user1,golf,Nigeria,Female,Africa
+2024-05-18 07:47:36.599853,192.168.0.1,POST,/about.html,200,user3,basketball,UK,Female,Europe
+2024-05-16 14:59:36.599853,192.168.0.1,POST,/contact.html,200,user2,football,Fiji,Female,Oceania
+2024-05-18 04:47:36.599853,192.168.0.1,POST,/index.html,500,user2,football,Germany,Male,Europe
+2024-05-21 09:35:36.599853,192.168.0.1,GET,/index.html,404,user1,soccer,UK,Female,Europe
+2024-05-21 05:03:36.599853,172.16.0.1,POST,/index.html,500,user3,football,USA,Female,North America
+2024-05-20 12:45:36.599853,192.168.0.1,POST,/index.html,500,user1,tennis,France,Male,Europe
+2024-05-17 02:40:36.599853,172.16.0.1,GET,/contact.html,200,user2,soccer,Canada,Female,North America
+2024-05-21 19:52:36.599853,10.0.0.1,POST,/about.html,404,user3,tennis,Canada,Male,North America
+2024-05-22 15:27:36.599853,10.0.0.1,POST,/about.html,200,user1,football,China,Male,Asia
+2024-05-16 23:22:36.599853,10.0.0.1,GET,/index.html,500,user1,tennis,Australia,Male,Oceania
+2024-05-21 06:04:36.599853,10.0.0.1,GET,/about.html,500,user3,tennis,France,Male,Europe
+2024-05-20 03:56:36.599853,172.16.0.1,GET,/about.html,404,user1,golf,New Zealand,Female,Oceania
+2024-05-20 00:23:36.599853,192.168.0.1,GET,/index.html,500,user1,tennis,Brazil,Male,South America
+2024-05-22 04:15:36.599853,192.168.0.1,POST,/contact.html,200,user1,golf,China,Female,Asia
+2024-05-20 02:09:36.599853,172.16.0.1,POST,/contact.html,500,user2,football,Germany,Female,Europe
+2024-05-22 07:52:36.599853,192.168.0.1,POST,/contact.html,404,user3,soccer,Argentina,Female,South America
+2024-05-16 10:10:36.599853,192.168.0.1,GET,/index.html,500,user3,golf,South Africa,Male,Africa
+2024-05-19 01:42:36.599853,192.168.0.1,POST,/index.html,200,user3,tennis,New Zealand,Male,Oceania
+2024-05-17 11:34:36.599853,172.16.0.1,GET,/contact.html,200,user3,tennis,Kenya,Male,Africa
+2024-05-20 23:41:36.599853,192.168.0.1,POST,/about.html,404,user1,golf,Mexico,Male,North America
+2024-05-16 21:37:36.599853,10.0.0.1,GET,/index.html,500,user3,basketball,Mexico,Male,North America
+2024-05-21 06:08:36.599853,192.168.0.1,GET,/contact.html,500,user2,basketball,Kenya,Female,Africa
+2024-05-18 11:00:36.599853,192.168.0.1,GET,/about.html,200,user3,basketball,France,Male,Europe
+2024-05-21 10:32:36.599853,172.16.0.1,POST,/about.html,404,user1,basketball,USA,Male,North America
+2024-05-20 22:30:36.599853,10.0.0.1,POST,/index.html,404,user3,golf,Fiji,Male,Oceania
+2024-05-16 14:51:36.599853,172.16.0.1,POST,/index.html,200,user1,tennis,India,Male,Asia
+2024-05-22 13:45:36.599853,192.168.0.1,GET,/about.html,200,user3,football,Germany,Female,Europe
+2024-05-20 18:38:36.599853,10.0.0.1,GET,/index.html,200,user1,soccer,Australia,Male,Oceania
+2024-05-20 06:09:36.599853,192.168.0.1,GET,/contact.html,500,user3,football,UK,Male,Europe
+2024-05-18 16:43:36.599853,192.168.0.1,GET,/about.html,200,user2,golf,UK,Female,Europe
+2024-05-17 06:15:36.599853,192.168.0.1,GET,/contact.html,404,user3,tennis,Brazil,Male,South America
+2024-05-21 09:36:36.599853,10.0.0.1,GET,/contact.html,500,user3,soccer,USA,Male,North America
+2024-05-21 08:25:36.599853,172.16.0.1,GET,/contact.html,500,user2,football,Brazil,Female,South America
+2024-05-18 07:31:36.599853,10.0.0.1,GET,/contact.html,200,user1,soccer,France,Female,Europe
+2024-05-21 09:49:36.599853,192.168.0.1,POST,/index.html,200,user2,football,New Zealand,Female,Oceania
+2024-05-23 00:16:36.599853,10.0.0.1,POST,/about.html,200,user1,tennis,Japan,Female,Asia
+2024-05-16 10:13:36.599853,172.16.0.1,GET,/contact.html,404,user2,golf,China,Female,Asia
+2024-05-19 13:45:36.599853,172.16.0.1,GET,/contact.html,404,user2,golf,Fiji,Female,Oceania
+2024-05-20 13:26:36.599853,172.16.0.1,POST,/index.html,500,user2,football,Fiji,Female,Oceania
+2024-05-18 11:06:36.599853,172.16.0.1,GET,/contact.html,404,user1,soccer,USA,Female,North America
+2024-05-18 13:42:36.599853,172.16.0.1,POST,/index.html,500,user3,tennis,Brazil,Male,South America
+2024-05-16 11:18:36.599853,172.16.0.1,GET,/index.html,500,user2,soccer,China,Female,Asia
+2024-05-16 17:02:36.599853,172.16.0.1,GET,/index.html,500,user2,football,USA,Female,North America
+2024-05-19 09:17:36.599853,172.16.0.1,POST,/contact.html,200,user3,football,Chile,Female,South America
+2024-05-18 03:07:36.599853,10.0.0.1,GET,/index.html,200,user3,tennis,Mexico,Male,North America
+2024-05-22 03:51:36.599853,10.0.0.1,POST,/contact.html,404,user2,soccer,Mexico,Male,North America
+2024-05-21 01:24:36.599853,172.16.0.1,GET,/about.html,500,user1,tennis,Fiji,Female,Oceania
+2024-05-21 14:34:36.599853,172.16.0.1,POST,/index.html,500,user1,tennis,Fiji,Male,Oceania
+2024-05-22 04:24:36.599853,192.168.0.1,GET,/about.html,200,user2,tennis,Australia,Female,Oceania
+2024-05-20 08:59:36.599853,192.168.0.1,POST,/contact.html,500,user3,tennis,Brazil,Female,South America
+2024-05-20 16:05:36.599853,192.168.0.1,POST,/contact.html,404,user3,golf,Germany,Female,Europe
+2024-05-20 14:28:36.599853,172.16.0.1,GET,/contact.html,500,user2,golf,India,Male,Asia
+2024-05-21 05:05:36.599853,192.168.0.1,GET,/index.html,404,user2,tennis,USA,Male,North America
+2024-05-20 14:51:36.599853,10.0.0.1,POST,/about.html,200,user3,tennis,UK,Female,Europe
+2024-05-16 16:55:36.599853,192.168.0.1,POST,/contact.html,200,user3,golf,Brazil,Male,South America
+2024-05-17 04:49:36.599853,172.16.0.1,POST,/contact.html,200,user1,tennis,Kenya,Female,Africa
+2024-05-16 04:34:36.599853,10.0.0.1,GET,/index.html,500,user2,basketball,Argentina,Male,South America
+2024-05-18 02:33:36.599853,10.0.0.1,POST,/about.html,500,user1,tennis,Kenya,Male,Africa
+2024-05-20 01:17:36.599853,10.0.0.1,POST,/index.html,404,user2,football,China,Male,Asia
+2024-05-20 01:55:36.599853,10.0.0.1,GET,/about.html,404,user2,soccer,Kenya,Female,Africa
+2024-05-22 14:53:36.599853,10.0.0.1,POST,/about.html,500,user2,football,Canada,Male,North America
+2024-05-22 22:45:36.599853,192.168.0.1,GET,/about.html,500,user3,golf,Canada,Female,North America
+2024-05-20 19:21:36.599853,172.16.0.1,GET,/index.html,404,user1,golf,Mexico,Male,North America
+2024-05-20 08:54:36.599853,192.168.0.1,GET,/index.html,200,user2,basketball,Chile,Female,South America
+2024-05-20 19:09:36.599853,192.168.0.1,GET,/about.html,500,user2,tennis,Brazil,Female,South America
+2024-05-22 13:22:36.599853,172.16.0.1,POST,/index.html,500,user3,soccer,Australia,Male,Oceania
+2024-05-22 22:57:36.599853,10.0.0.1,GET,/index.html,404,user1,soccer,France,Male,Europe
+2024-05-18 09:52:36.599853,10.0.0.1,POST,/about.html,200,user3,basketball,Argentina,Male,South America
+2024-05-17 03:37:36.599853,192.168.0.1,POST,/about.html,404,user3,basketball,France,Male,Europe
+2024-05-18 05:58:36.599853,192.168.0.1,POST,/index.html,404,user2,golf,China,Female,Asia
+2024-05-17 09:15:36.599853,10.0.0.1,GET,/index.html,200,user2,football,Germany,Male,Europe
+2024-05-23 00:24:36.599853,10.0.0.1,GET,/about.html,500,user1,basketball,USA,Male,North America
+2024-05-18 23:20:36.599853,10.0.0.1,POST,/index.html,500,user2,football,South Africa,Male,Africa
+2024-05-18 04:29:36.599853,10.0.0.1,GET,/about.html,404,user1,soccer,Argentina,Male,South America
+2024-05-16 02:14:36.599853,172.16.0.1,POST,/about.html,404,user3,basketball,Chile,Female,South America
+2024-05-18 12:58:36.599853,172.16.0.1,POST,/about.html,500,user3,football,Chile,Male,South America
+2024-05-20 23:48:36.599853,172.16.0.1,GET,/about.html,500,user1,soccer,South Africa,Female,Africa
+2024-05-17 12:06:36.599853,10.0.0.1,POST,/about.html,404,user3,golf,Chile,Male,South America
+2024-05-20 21:19:36.599853,10.0.0.1,GET,/contact.html,500,user1,soccer,Fiji,Female,Oceania
+2024-05-22 12:08:36.599853,10.0.0.1,GET,/index.html,404,user2,golf,Japan,Female,Asia
+2024-05-19 13:00:36.599853,10.0.0.1,POST,/contact.html,500,user1,basketball,Mexico,Female,North America
+2024-05-19 22:47:36.599853,172.16.0.1,POST,/index.html,404,user2,tennis,Australia,Male,Oceania
+2024-05-17 06:48:36.599853,192.168.0.1,POST,/contact.html,500,user3,football,Australia,Female,Oceania
+2024-05-22 02:27:36.599853,192.168.0.1,POST,/about.html,200,user3,golf,New Zealand,Male,Oceania
+2024-05-20 20:59:36.599853,10.0.0.1,GET,/about.html,200,user3,basketball,Germany,Male,Europe
+2024-05-22 09:58:36.599853,10.0.0.1,POST,/about.html,500,user2,tennis,Argentina,Female,South America
+2024-05-16 20:02:36.599853,10.0.0.1,POST,/contact.html,200,user3,basketball,Kenya,Male,Africa
+2024-05-18 00:12:36.599853,192.168.0.1,POST,/index.html,404,user3,football,New Zealand,Female,Oceania
+2024-05-16 18:24:36.599853,192.168.0.1,GET,/contact.html,404,user3,basketball,South Africa,Female,Africa
+2024-05-16 17:04:36.599853,192.168.0.1,GET,/contact.html,500,user3,golf,Australia,Male,Oceania
+2024-05-16 22:15:36.599853,172.16.0.1,POST,/index.html,500,user1,tennis,Argentina,Female,South America
+2024-05-17 17:25:36.599853,10.0.0.1,GET,/index.html,200,user2,soccer,Canada,Female,North America
+2024-05-18 16:52:36.599853,172.16.0.1,GET,/contact.html,404,user3,football,Japan,Male,Asia
+2024-05-21 12:27:36.599853,172.16.0.1,GET,/about.html,200,user3,soccer,Fiji,Male,Oceania
+2024-05-22 03:28:36.599853,10.0.0.1,POST,/about.html,500,user1,soccer,France,Male,Europe
+2024-05-21 14:28:36.599853,192.168.0.1,GET,/contact.html,200,user2,basketball,France,Female,Europe
+2024-05-16 16:51:36.599853,10.0.0.1,GET,/index.html,200,user2,basketball,Canada,Male,North America
+2024-05-16 18:05:36.599853,172.16.0.1,POST,/index.html,404,user3,golf,Fiji,Female,Oceania
+2024-05-18 05:21:36.599853,172.16.0.1,POST,/about.html,200,user3,soccer,Chile,Female,South America
+2024-05-22 11:53:36.599853,172.16.0.1,GET,/contact.html,500,user2,basketball,Nigeria,Male,Africa
+2024-05-18 08:45:36.599853,172.16.0.1,GET,/contact.html,500,user2,basketball,France,Male,Europe
+2024-05-20 00:31:36.599853,192.168.0.1,POST,/contact.html,404,user3,basketball,Australia,Female,Oceania
+2024-05-20 03:31:36.599853,192.168.0.1,GET,/about.html,200,user3,basketball,New Zealand,Female,Oceania
+2024-05-23 00:15:36.599853,192.168.0.1,GET,/about.html,200,user3,golf,Mexico,Male,North America
+2024-05-19 16:10:36.599853,192.168.0.1,POST,/about.html,404,user1,golf,Brazil,Female,South America
+2024-05-19 07:09:36.599853,192.168.0.1,POST,/about.html,500,user1,football,Mexico,Female,North America
+2024-05-21 15:13:36.599853,192.168.0.1,GET,/contact.html,404,user1,golf,USA,Male,North America
+2024-05-19 23:25:36.599853,10.0.0.1,GET,/about.html,200,user1,golf,France,Female,Europe
+2024-05-17 20:54:36.599853,172.16.0.1,GET,/about.html,404,user3,tennis,Canada,Male,North America
+2024-05-19 00:21:36.599853,192.168.0.1,POST,/contact.html,404,user3,football,New Zealand,Male,Oceania
+2024-05-22 20:47:36.599853,172.16.0.1,POST,/index.html,404,user3,golf,France,Male,Europe
+2024-05-18 03:23:36.599853,192.168.0.1,POST,/contact.html,500,user1,basketball,South Africa,Female,Africa
+2024-05-21 17:53:36.599853,10.0.0.1,GET,/index.html,200,user2,football,India,Female,Asia
+2024-05-21 12:18:36.599853,172.16.0.1,POST,/index.html,404,user1,football,Argentina,Male,South America
+2024-05-17 20:57:36.599853,192.168.0.1,POST,/index.html,404,user1,tennis,Canada,Female,North America
+2024-05-19 13:34:36.599853,10.0.0.1,POST,/index.html,404,user3,soccer,UK,Female,Europe
+2024-05-21 04:07:36.599853,10.0.0.1,POST,/about.html,500,user2,football,Kenya,Male,Africa
+2024-05-17 00:46:36.599853,172.16.0.1,POST,/index.html,200,user3,tennis,India,Male,Asia
+2024-05-19 22:50:36.599853,192.168.0.1,GET,/contact.html,500,user3,golf,Kenya,Male,Africa
+2024-05-21 13:40:36.599853,10.0.0.1,POST,/index.html,200,user1,football,Australia,Female,Oceania
+2024-05-20 10:33:36.599853,10.0.0.1,GET,/index.html,200,user3,basketball,Canada,Male,North America
+2024-05-18 21:48:36.599853,172.16.0.1,POST,/contact.html,200,user2,football,UK,Male,Europe
+2024-05-16 20:58:36.599853,192.168.0.1,GET,/contact.html,404,user2,basketball,Germany,Female,Europe
+2024-05-19 01:10:36.599853,192.168.0.1,POST,/contact.html,500,user2,soccer,USA,Female,North America
+2024-05-17 07:23:36.599853,10.0.0.1,GET,/contact.html,200,user2,tennis,Japan,Female,Asia
+2024-05-18 03:27:36.599853,172.16.0.1,POST,/index.html,200,user1,basketball,South Africa,Male,Africa
+2024-05-22 09:32:36.599853,192.168.0.1,GET,/about.html,404,user3,football,Kenya,Female,Africa
+2024-05-22 07:01:36.599853,10.0.0.1,POST,/contact.html,404,user2,soccer,China,Male,Asia
+2024-05-20 06:03:36.599853,192.168.0.1,GET,/about.html,500,user1,golf,Canada,Male,North America
+2024-05-17 01:10:36.599853,172.16.0.1,POST,/about.html,200,user2,tennis,Germany,Female,Europe
+2024-05-16 03:46:36.599853,172.16.0.1,POST,/index.html,404,user2,basketball,France,Female,Europe
+2024-05-20 22:20:36.599853,192.168.0.1,GET,/about.html,500,user1,basketball,South Africa,Female,Africa
+2024-05-21 15:07:36.599853,192.168.0.1,POST,/about.html,500,user1,basketball,Canada,Female,North America
+2024-05-16 17:45:36.599853,192.168.0.1,GET,/index.html,404,user2,tennis,China,Male,Asia
+2024-05-16 20:39:36.599853,172.16.0.1,POST,/contact.html,200,user3,golf,Canada,Male,North America
+2024-05-18 06:03:36.599853,10.0.0.1,POST,/contact.html,404,user1,basketball,UK,Female,Europe
+2024-05-20 09:13:36.599853,172.16.0.1,GET,/about.html,404,user1,football,New Zealand,Male,Oceania
+2024-05-18 16:38:36.599853,192.168.0.1,GET,/index.html,404,user1,basketball,South Africa,Male,Africa
+2024-05-23 00:06:36.599853,172.16.0.1,POST,/contact.html,200,user2,basketball,Chile,Male,South America
+2024-05-20 03:29:36.599853,192.168.0.1,POST,/about.html,200,user3,basketball,Kenya,Male,Africa
+2024-05-22 17:57:36.599853,172.16.0.1,GET,/contact.html,404,user1,basketball,Nigeria,Male,Africa
+2024-05-21 21:41:36.599853,10.0.0.1,GET,/about.html,404,user1,tennis,Chile,Female,South America
+2024-05-21 05:42:36.599853,192.168.0.1,GET,/index.html,200,user3,basketball,Brazil,Female,South America
+2024-05-20 12:29:36.599853,10.0.0.1,GET,/about.html,404,user3,basketball,Japan,Male,Asia
+2024-05-20 14:16:36.599853,172.16.0.1,GET,/index.html,500,user2,football,Kenya,Male,Africa
+2024-05-20 02:18:36.599853,172.16.0.1,GET,/about.html,500,user1,football,New Zealand,Female,Oceania
+2024-05-20 21:20:36.599853,10.0.0.1,POST,/contact.html,500,user1,basketball,Chile,Female,South America
+2024-05-17 06:20:36.599853,10.0.0.1,GET,/contact.html,404,user3,football,Mexico,Female,North America
+2024-05-19 06:55:36.599853,172.16.0.1,GET,/about.html,200,user2,tennis,Nigeria,Female,Africa
+2024-05-22 10:39:36.599853,192.168.0.1,POST,/index.html,200,user3,golf,France,Female,Europe
+2024-05-20 16:28:36.599853,172.16.0.1,POST,/contact.html,404,user2,soccer,Kenya,Female,Africa
+2024-05-22 15:55:36.599853,192.168.0.1,GET,/about.html,200,user3,tennis,New Zealand,Female,Oceania
+2024-05-21 15:26:36.599853,10.0.0.1,POST,/about.html,200,user3,soccer,USA,Female,North America
+2024-05-18 13:20:36.599853,172.16.0.1,GET,/about.html,200,user2,basketball,New Zealand,Female,Oceania
+2024-05-20 04:17:36.599853,172.16.0.1,POST,/about.html,404,user2,tennis,Fiji,Male,Oceania
+2024-05-18 09:19:36.599853,172.16.0.1,GET,/index.html,404,user3,golf,UK,Male,Europe
+2024-05-19 16:52:36.599853,10.0.0.1,POST,/contact.html,404,user1,golf,Argentina,Male,South America
+2024-05-17 12:35:36.599853,10.0.0.1,GET,/about.html,500,user1,basketball,Brazil,Female,South America
+2024-05-20 18:43:36.599853,192.168.0.1,GET,/about.html,200,user2,tennis,Chile,Female,South America
+2024-05-16 06:05:36.599853,10.0.0.1,GET,/index.html,500,user2,soccer,Mexico,Female,North America
+2024-05-21 11:58:36.599853,192.168.0.1,POST,/about.html,500,user2,soccer,India,Male,Asia
+2024-05-22 10:30:36.599853,172.16.0.1,POST,/about.html,500,user1,tennis,UK,Male,Europe
+2024-05-16 08:06:36.599853,192.168.0.1,GET,/about.html,200,user2,tennis,Mexico,Male,North America
+2024-05-18 16:55:36.599853,10.0.0.1,POST,/contact.html,500,user2,basketball,South Africa,Male,Africa
+2024-05-17 09:18:36.599853,192.168.0.1,GET,/about.html,200,user1,soccer,Germany,Male,Europe
+2024-05-17 09:41:36.599853,192.168.0.1,GET,/index.html,500,user2,golf,Nigeria,Male,Africa
+2024-05-17 07:37:36.599853,172.16.0.1,GET,/index.html,200,user3,soccer,Chile,Female,South America
+2024-05-22 11:54:36.599853,192.168.0.1,POST,/about.html,404,user1,basketball,France,Male,Europe
+2024-05-17 01:25:36.599853,172.16.0.1,GET,/about.html,500,user3,golf,South Africa,Female,Africa
+2024-05-20 12:31:36.599853,10.0.0.1,GET,/contact.html,500,user1,basketball,Fiji,Female,Oceania
+2024-05-22 03:54:36.599853,192.168.0.1,POST,/index.html,404,user1,tennis,Japan,Male,Asia
+2024-05-21 21:49:36.599853,172.16.0.1,GET,/contact.html,200,user2,soccer,Argentina,Female,South America
+2024-05-18 23:18:36.599853,192.168.0.1,POST,/about.html,500,user3,football,India,Female,Asia
+2024-05-16 22:52:36.599853,172.16.0.1,GET,/contact.html,200,user3,soccer,Argentina,Male,South America
+2024-05-16 11:39:36.599853,192.168.0.1,GET,/contact.html,200,user3,football,Germany,Female,Europe
+2024-05-16 12:10:36.599853,10.0.0.1,GET,/contact.html,404,user1,soccer,Canada,Male,North America
+2024-05-21 10:01:36.599853,10.0.0.1,GET,/about.html,200,user2,golf,USA,Female,North America
+2024-05-17 01:28:36.599853,172.16.0.1,POST,/about.html,500,user1,football,Australia,Male,Oceania
+2024-05-18 16:59:36.599853,10.0.0.1,GET,/index.html,200,user3,tennis,Canada,Female,North America
+2024-05-22 01:42:36.599853,10.0.0.1,POST,/about.html,200,user2,football,India,Female,Asia
+2024-05-19 10:38:36.599853,172.16.0.1,GET,/index.html,404,user1,football,USA,Female,North America
+2024-05-19 07:02:36.599853,192.168.0.1,POST,/contact.html,500,user2,soccer,France,Male,Europe
+2024-05-16 23:02:36.599853,10.0.0.1,POST,/about.html,500,user1,tennis,China,Female,Asia
+2024-05-18 21:27:36.599853,172.16.0.1,GET,/about.html,500,user1,golf,New Zealand,Male,Oceania
+2024-05-21 10:12:36.599853,10.0.0.1,POST,/contact.html,404,user1,soccer,Germany,Female,Europe
+2024-05-22 00:30:36.599853,172.16.0.1,POST,/about.html,404,user3,tennis,Argentina,Female,South America
+2024-05-16 09:22:36.599853,10.0.0.1,POST,/contact.html,500,user2,basketball,UK,Female,Europe
+2024-05-21 03:24:36.599853,192.168.0.1,POST,/about.html,200,user1,golf,UK,Male,Europe
+2024-05-16 06:09:36.599853,10.0.0.1,POST,/index.html,404,user3,football,India,Male,Asia
+2024-05-16 12:36:36.599853,172.16.0.1,GET,/contact.html,200,user3,golf,New Zealand,Male,Oceania
+2024-05-20 15:35:36.599853,172.16.0.1,POST,/index.html,500,user1,basketball,Japan,Male,Asia
+2024-05-20 22:12:36.599853,10.0.0.1,GET,/contact.html,200,user3,football,Brazil,Male,South America
+2024-05-18 02:22:36.599853,10.0.0.1,POST,/contact.html,200,user2,tennis,USA,Male,North America
+2024-05-20 06:09:36.599853,192.168.0.1,POST,/contact.html,404,user2,basketball,India,Female,Asia
+2024-05-18 18:57:36.599853,192.168.0.1,GET,/contact.html,500,user3,golf,Mexico,Male,North America
+2024-05-22 09:03:36.599853,192.168.0.1,GET,/index.html,404,user1,soccer,Nigeria,Female,Africa
+2024-05-21 05:13:36.599853,192.168.0.1,GET,/about.html,404,user3,soccer,China,Male,Asia
+2024-05-17 09:27:36.599853,172.16.0.1,POST,/about.html,404,user1,football,Nigeria,Male,Africa
+2024-05-21 00:00:36.599853,10.0.0.1,POST,/about.html,200,user3,tennis,Kenya,Male,Africa
+2024-05-21 15:54:36.599853,172.16.0.1,POST,/contact.html,404,user3,tennis,UK,Female,Europe
+2024-05-17 12:18:36.599853,10.0.0.1,GET,/index.html,500,user2,tennis,Australia,Female,Oceania
+2024-05-20 21:42:36.599853,172.16.0.1,POST,/contact.html,200,user1,soccer,China,Male,Asia
+2024-05-21 18:29:36.599853,172.16.0.1,GET,/index.html,500,user3,football,Australia,Female,Oceania
+2024-05-19 08:43:36.599853,10.0.0.1,GET,/contact.html,500,user1,football,India,Male,Asia
+2024-05-19 12:25:36.599853,10.0.0.1,POST,/index.html,404,user3,basketball,Japan,Male,Asia
+2024-05-21 19:07:36.599853,10.0.0.1,GET,/contact.html,200,user1,tennis,Fiji,Male,Oceania
+2024-05-17 21:54:36.599853,192.168.0.1,GET,/index.html,200,user2,football,Canada,Female,North America
+2024-05-18 20:07:36.599853,10.0.0.1,POST,/index.html,200,user1,tennis,Kenya,Female,Africa
+2024-05-22 10:54:36.599853,172.16.0.1,GET,/contact.html,200,user3,tennis,Kenya,Female,Africa
+2024-05-20 14:22:36.599853,172.16.0.1,POST,/contact.html,404,user3,football,Nigeria,Male,Africa
+2024-05-20 19:43:36.599853,172.16.0.1,POST,/index.html,500,user1,golf,France,Female,Europe
+2024-05-19 22:03:36.599853,10.0.0.1,POST,/contact.html,500,user3,golf,Australia,Male,Oceania
+2024-05-21 04:43:36.599853,10.0.0.1,POST,/contact.html,200,user1,tennis,USA,Female,North America
+2024-05-19 21:32:36.599853,172.16.0.1,POST,/index.html,500,user1,soccer,Fiji,Male,Oceania
+2024-05-18 20:29:36.599853,192.168.0.1,POST,/index.html,200,user2,tennis,South Africa,Female,Africa
+2024-05-18 03:32:36.599853,172.16.0.1,POST,/about.html,404,user1,tennis,Chile,Male,South America
+2024-05-22 05:27:36.599853,10.0.0.1,GET,/about.html,200,user1,golf,USA,Female,North America
+2024-05-18 12:34:36.599853,192.168.0.1,GET,/about.html,200,user3,soccer,Fiji,Male,Oceania
+2024-05-20 15:22:36.599853,192.168.0.1,POST,/index.html,500,user2,tennis,Kenya,Female,Africa
+2024-05-21 11:26:36.599853,10.0.0.1,GET,/index.html,500,user3,football,New Zealand,Female,Oceania
+2024-05-16 02:57:36.599853,10.0.0.1,POST,/contact.html,404,user1,basketball,UK,Male,Europe
+2024-05-19 23:36:36.599853,172.16.0.1,POST,/about.html,200,user2,tennis,Kenya,Female,Africa
+2024-05-21 21:00:36.599853,10.0.0.1,POST,/index.html,200,user2,football,Nigeria,Male,Africa
+2024-05-19 00:38:36.599853,10.0.0.1,POST,/index.html,404,user2,football,UK,Female,Europe
+2024-05-18 23:46:36.599853,192.168.0.1,POST,/contact.html,404,user1,golf,Kenya,Male,Africa
+2024-05-22 10:08:36.599853,192.168.0.1,GET,/index.html,500,user2,tennis,Fiji,Female,Oceania
+2024-05-22 00:50:36.599853,172.16.0.1,POST,/about.html,500,user2,tennis,Argentina,Female,South America
+2024-05-17 22:10:36.599853,172.16.0.1,GET,/index.html,500,user3,football,Australia,Male,Oceania
+2024-05-17 13:21:36.599853,192.168.0.1,POST,/about.html,500,user2,football,Argentina,Male,South America
+2024-05-19 23:54:36.599853,172.16.0.1,POST,/index.html,500,user1,golf,South Africa,Female,Africa
+2024-05-17 07:42:36.599853,192.168.0.1,GET,/about.html,500,user3,golf,Fiji,Female,Oceania
+2024-05-22 12:41:36.599853,10.0.0.1,POST,/index.html,500,user2,basketball,India,Male,Asia
+2024-05-18 19:42:36.599853,172.16.0.1,GET,/index.html,404,user2,tennis,South Africa,Male,Africa
+2024-05-16 11:16:36.599853,192.168.0.1,GET,/contact.html,404,user1,basketball,Kenya,Female,Africa
+2024-05-18 03:51:36.599853,10.0.0.1,GET,/contact.html,404,user2,basketball,France,Male,Europe
+2024-05-17 11:29:36.599853,10.0.0.1,POST,/contact.html,500,user1,tennis,Mexico,Female,North America
+2024-05-21 17:31:36.599853,192.168.0.1,GET,/contact.html,500,user3,soccer,Mexico,Male,North America
+2024-05-19 12:36:36.599853,10.0.0.1,GET,/contact.html,200,user2,basketball,China,Male,Asia
+2024-05-16 22:35:36.599853,192.168.0.1,POST,/index.html,500,user1,football,Chile,Female,South America
+2024-05-17 03:18:36.599853,172.16.0.1,POST,/about.html,200,user2,soccer,France,Female,Europe
+2024-05-16 20:46:36.599853,192.168.0.1,POST,/about.html,404,user3,golf,New Zealand,Male,Oceania
+2024-05-20 10:37:36.599853,10.0.0.1,GET,/about.html,500,user3,soccer,India,Female,Asia
+2024-05-18 20:20:36.599853,172.16.0.1,POST,/contact.html,200,user1,soccer,UK,Female,Europe
+2024-05-18 20:33:36.599853,192.168.0.1,GET,/index.html,404,user1,tennis,Germany,Female,Europe
+2024-05-21 07:03:36.599853,172.16.0.1,GET,/contact.html,500,user1,tennis,Argentina,Male,South America
+2024-05-21 16:59:36.599853,172.16.0.1,GET,/about.html,200,user1,golf,India,Female,Asia
+2024-05-16 07:07:36.599853,192.168.0.1,GET,/index.html,404,user2,basketball,Kenya,Male,Africa
+2024-05-19 08:49:36.599853,10.0.0.1,GET,/index.html,500,user3,soccer,Mexico,Male,North America
+2024-05-21 01:23:36.599853,10.0.0.1,GET,/index.html,500,user3,basketball,UK,Male,Europe
+2024-05-17 14:26:36.599853,172.16.0.1,POST,/contact.html,200,user3,soccer,Fiji,Female,Oceania
+2024-05-16 22:33:36.599853,172.16.0.1,GET,/index.html,500,user2,tennis,USA,Female,North America
+2024-05-22 20:15:36.599853,172.16.0.1,GET,/about.html,404,user2,soccer,Japan,Female,Asia
+2024-05-20 11:14:36.599853,10.0.0.1,GET,/index.html,500,user3,football,China,Male,Asia
+2024-05-19 23:21:36.599853,10.0.0.1,POST,/about.html,500,user3,football,France,Male,Europe
+2024-05-19 04:20:36.599853,10.0.0.1,GET,/index.html,200,user3,football,UK,Male,Europe
+2024-05-18 06:46:36.599853,10.0.0.1,GET,/contact.html,500,user3,soccer,USA,Male,North America
+2024-05-21 22:02:36.599853,10.0.0.1,GET,/index.html,404,user3,tennis,India,Male,Asia
+2024-05-18 06:21:36.599853,192.168.0.1,POST,/about.html,200,user1,tennis,Fiji,Female,Oceania
+2024-05-19 22:50:36.599853,172.16.0.1,GET,/about.html,200,user3,tennis,Brazil,Female,South America
+2024-05-17 21:02:36.599853,172.16.0.1,GET,/contact.html,404,user3,tennis,Fiji,Female,Oceania
+2024-05-21 07:31:36.599853,192.168.0.1,GET,/contact.html,404,user2,football,India,Male,Asia
+2024-05-21 19:51:36.599853,192.168.0.1,POST,/about.html,404,user3,golf,Japan,Male,Asia
+2024-05-19 19:21:36.599853,172.16.0.1,GET,/about.html,500,user3,golf,Argentina,Female,South America
+2024-05-17 11:05:36.599853,10.0.0.1,POST,/contact.html,404,user3,golf,Nigeria,Male,Africa
+2024-05-18 06:40:36.599853,172.16.0.1,POST,/about.html,404,user2,football,Argentina,Male,South America
+2024-05-22 01:28:36.599853,192.168.0.1,GET,/index.html,404,user2,golf,USA,Male,North America
+2024-05-20 18:26:36.599853,192.168.0.1,GET,/about.html,404,user2,soccer,Fiji,Male,Oceania
+2024-05-17 14:40:36.599853,10.0.0.1,GET,/contact.html,200,user1,golf,UK,Female,Europe
+2024-05-16 06:11:36.599853,172.16.0.1,POST,/contact.html,200,user2,soccer,Kenya,Male,Africa
+2024-05-18 15:46:36.599853,172.16.0.1,GET,/contact.html,404,user3,golf,Kenya,Female,Africa
+2024-05-18 07:08:36.599853,172.16.0.1,POST,/index.html,404,user1,soccer,Brazil,Male,South America
+2024-05-19 03:27:36.599853,192.168.0.1,POST,/contact.html,200,user3,tennis,China,Male,Asia
+2024-05-16 10:58:36.599853,192.168.0.1,GET,/about.html,500,user2,tennis,Nigeria,Male,Africa
+2024-05-20 04:08:36.599853,10.0.0.1,POST,/about.html,200,user1,soccer,China,Male,Asia
+2024-05-21 23:58:36.599853,10.0.0.1,POST,/index.html,200,user3,soccer,Kenya,Female,Africa
+2024-05-20 06:22:36.599853,172.16.0.1,GET,/index.html,404,user1,soccer,China,Male,Asia
+2024-05-20 21:33:36.599853,192.168.0.1,POST,/contact.html,500,user1,soccer,Fiji,Female,Oceania
+2024-05-21 02:44:36.599853,192.168.0.1,GET,/index.html,200,user3,football,Canada,Female,North America
+2024-05-20 16:40:36.599853,172.16.0.1,GET,/contact.html,500,user3,tennis,India,Female,Asia
+2024-05-18 08:01:36.599853,192.168.0.1,GET,/contact.html,404,user2,soccer,Mexico,Male,North America
+2024-05-19 15:21:36.599853,172.16.0.1,GET,/contact.html,200,user3,golf,Kenya,Male,Africa
+2024-05-22 02:01:36.599853,172.16.0.1,POST,/about.html,200,user2,soccer,Argentina,Female,South America
+2024-05-18 19:49:36.599853,192.168.0.1,GET,/index.html,500,user2,basketball,China,Male,Asia
+2024-05-19 11:39:36.599853,10.0.0.1,POST,/index.html,200,user3,football,France,Female,Europe
+2024-05-22 22:25:36.599853,192.168.0.1,POST,/contact.html,200,user1,basketball,India,Male,Asia
+2024-05-16 16:34:36.599853,10.0.0.1,GET,/contact.html,200,user3,football,Nigeria,Female,Africa
+2024-05-19 23:14:36.599853,172.16.0.1,GET,/about.html,404,user1,golf,Australia,Female,Oceania
+2024-05-21 01:57:36.599853,10.0.0.1,GET,/contact.html,200,user3,soccer,Argentina,Male,South America
+2024-05-19 03:13:36.599853,10.0.0.1,GET,/about.html,500,user3,golf,China,Male,Asia
+2024-05-20 14:41:36.599853,192.168.0.1,POST,/about.html,200,user3,tennis,France,Male,Europe
+2024-05-16 08:19:36.599853,192.168.0.1,POST,/contact.html,404,user2,soccer,Kenya,Female,Africa
+2024-05-21 15:27:36.599853,10.0.0.1,GET,/index.html,500,user3,golf,New Zealand,Female,Oceania
+2024-05-18 19:29:36.599853,172.16.0.1,POST,/about.html,200,user2,golf,Chile,Male,South America
+2024-05-19 09:39:36.599853,10.0.0.1,POST,/index.html,404,user2,golf,Argentina,Male,South America
+2024-05-18 19:39:36.599853,192.168.0.1,GET,/contact.html,200,user3,soccer,Argentina,Female,South America
+2024-05-17 12:32:36.599853,192.168.0.1,POST,/index.html,404,user2,soccer,India,Female,Asia
+2024-05-22 13:20:36.599853,192.168.0.1,POST,/about.html,500,user1,tennis,France,Female,Europe
+2024-05-20 14:09:36.599853,172.16.0.1,POST,/contact.html,500,user2,soccer,New Zealand,Female,Oceania
+2024-05-18 20:20:36.599853,10.0.0.1,GET,/about.html,404,user3,tennis,Chile,Male,South America
+2024-05-20 05:33:36.599853,192.168.0.1,GET,/contact.html,404,user2,football,UK,Female,Europe
+2024-05-16 04:34:36.599853,192.168.0.1,GET,/about.html,500,user2,golf,USA,Male,North America
+2024-05-17 00:36:36.599853,172.16.0.1,POST,/contact.html,404,user3,tennis,France,Female,Europe
+2024-05-17 13:18:36.599853,10.0.0.1,POST,/about.html,404,user3,soccer,Mexico,Male,North America
+2024-05-18 11:03:36.599853,192.168.0.1,GET,/about.html,500,user3,basketball,Fiji,Male,Oceania
+2024-05-16 08:32:36.599853,10.0.0.1,POST,/index.html,200,user3,golf,Chile,Female,South America
+2024-05-21 18:52:36.599853,172.16.0.1,GET,/about.html,404,user1,tennis,India,Female,Asia
+2024-05-18 20:59:36.599853,172.16.0.1,GET,/contact.html,200,user2,basketball,Canada,Female,North America
+2024-05-16 10:13:36.599853,10.0.0.1,GET,/about.html,404,user2,tennis,China,Female,Asia
+2024-05-16 22:42:36.599853,192.168.0.1,GET,/index.html,404,user1,basketball,Japan,Female,Asia
+2024-05-21 13:25:36.599853,172.16.0.1,POST,/index.html,404,user2,football,New Zealand,Male,Oceania
+2024-05-16 05:33:36.599853,10.0.0.1,GET,/index.html,500,user1,tennis,New Zealand,Male,Oceania
+2024-05-23 00:46:36.599853,172.16.0.1,POST,/index.html,500,user2,tennis,UK,Male,Europe
+2024-05-22 21:55:36.599853,192.168.0.1,GET,/contact.html,200,user3,golf,France,Male,Europe
+2024-05-20 17:42:36.599853,10.0.0.1,POST,/index.html,500,user1,football,Fiji,Female,Oceania
+2024-05-21 09:00:36.599853,10.0.0.1,GET,/about.html,200,user3,soccer,Brazil,Male,South America
+2024-05-16 04:54:36.599853,10.0.0.1,POST,/about.html,500,user3,football,New Zealand,Female,Oceania
+2024-05-17 16:59:36.599853,192.168.0.1,GET,/index.html,200,user1,football,Fiji,Male,Oceania
+2024-05-17 09:03:36.599853,172.16.0.1,POST,/index.html,500,user1,basketball,Australia,Female,Oceania
+2024-05-21 09:13:36.599853,192.168.0.1,POST,/about.html,500,user1,soccer,Kenya,Female,Africa
+2024-05-22 11:08:36.599853,10.0.0.1,POST,/contact.html,404,user1,soccer,Germany,Female,Europe
+2024-05-20 02:26:36.599853,10.0.0.1,GET,/about.html,200,user3,golf,South Africa,Female,Africa
+2024-05-21 04:28:36.599853,192.168.0.1,POST,/contact.html,500,user3,tennis,Canada,Female,North America
+2024-05-19 18:44:36.599853,172.16.0.1,POST,/contact.html,200,user1,golf,India,Female,Asia
+2024-05-21 01:22:36.599853,192.168.0.1,GET,/index.html,200,user3,soccer,Brazil,Female,South America
+2024-05-19 02:48:36.599853,192.168.0.1,POST,/contact.html,404,user2,soccer,UK,Female,Europe
+2024-05-21 20:49:36.599853,172.16.0.1,POST,/index.html,500,user3,soccer,Australia,Female,Oceania
+2024-05-19 08:46:36.599853,192.168.0.1,GET,/contact.html,404,user3,basketball,India,Male,Asia
+2024-05-17 21:23:36.599853,10.0.0.1,POST,/index.html,500,user1,basketball,Nigeria,Male,Africa
+2024-05-20 21:23:36.599853,192.168.0.1,POST,/about.html,500,user3,football,UK,Male,Europe
+2024-05-16 13:16:36.599853,192.168.0.1,GET,/contact.html,500,user3,soccer,Germany,Male,Europe
+2024-05-19 16:00:36.599853,172.16.0.1,GET,/index.html,404,user3,golf,New Zealand,Female,Oceania
+2024-05-16 18:08:36.599853,192.168.0.1,POST,/contact.html,404,user3,basketball,Germany,Male,Europe
+2024-05-18 06:51:36.599853,10.0.0.1,GET,/contact.html,200,user2,soccer,Japan,Female,Asia
+2024-05-22 17:06:36.599853,10.0.0.1,POST,/index.html,200,user1,golf,Germany,Male,Europe
+2024-05-21 07:21:36.599853,172.16.0.1,GET,/contact.html,500,user2,soccer,Kenya,Female,Africa
+2024-05-19 21:18:36.599853,172.16.0.1,GET,/index.html,500,user3,tennis,Fiji,Female,Oceania
+2024-05-16 03:24:36.599853,10.0.0.1,GET,/index.html,200,user3,soccer,Fiji,Male,Oceania
+2024-05-18 09:12:36.599853,172.16.0.1,GET,/about.html,500,user1,football,Canada,Female,North America
+2024-05-17 04:34:36.599853,172.16.0.1,GET,/index.html,200,user2,soccer,France,Female,Europe
+2024-05-18 07:09:36.599853,192.168.0.1,POST,/index.html,500,user3,basketball,Mexico,Male,North America
+2024-05-19 04:26:36.599853,192.168.0.1,GET,/index.html,200,user3,basketball,Brazil,Female,South America
+2024-05-17 17:40:36.599853,192.168.0.1,POST,/contact.html,500,user2,football,Argentina,Female,South America
+2024-05-19 04:49:36.599853,172.16.0.1,POST,/index.html,500,user2,soccer,Canada,Female,North America
+2024-05-21 22:18:36.599853,192.168.0.1,GET,/about.html,404,user1,tennis,Mexico,Female,North America
+2024-05-21 03:11:36.599853,192.168.0.1,POST,/about.html,404,user2,tennis,Mexico,Male,North America
+2024-05-17 16:28:36.599853,172.16.0.1,POST,/index.html,500,user1,golf,Argentina,Male,South America
+2024-05-17 09:25:36.599853,192.168.0.1,GET,/contact.html,500,user2,football,South Africa,Male,Africa
+2024-05-17 20:29:36.599853,10.0.0.1,POST,/index.html,500,user1,football,France,Male,Europe
+2024-05-18 02:16:36.599853,192.168.0.1,POST,/index.html,404,user2,football,Japan,Female,Asia
+2024-05-20 03:41:36.599853,192.168.0.1,POST,/about.html,500,user3,basketball,South Africa,Female,Africa
+2024-05-21 14:59:36.599853,172.16.0.1,GET,/contact.html,500,user2,golf,Chile,Female,South America
+2024-05-17 22:30:36.599853,192.168.0.1,POST,/index.html,404,user1,golf,Kenya,Female,Africa
+2024-05-20 11:38:36.599853,10.0.0.1,GET,/contact.html,200,user3,football,France,Male,Europe
+2024-05-23 00:41:36.599853,172.16.0.1,POST,/contact.html,500,user3,basketball,UK,Male,Europe
+2024-05-18 09:11:36.599853,10.0.0.1,GET,/about.html,500,user2,tennis,New Zealand,Male,Oceania
+2024-05-21 16:36:36.599853,192.168.0.1,POST,/index.html,200,user3,tennis,South Africa,Female,Africa
+2024-05-17 18:46:36.599853,192.168.0.1,GET,/contact.html,500,user1,basketball,USA,Female,North America
+2024-05-22 15:55:36.599853,10.0.0.1,GET,/contact.html,404,user1,soccer,Argentina,Male,South America
+2024-05-18 09:29:36.599853,10.0.0.1,POST,/index.html,500,user1,basketball,Germany,Female,Europe
+2024-05-16 09:31:36.599853,192.168.0.1,GET,/about.html,200,user3,tennis,New Zealand,Male,Oceania
+2024-05-21 22:24:36.599853,10.0.0.1,POST,/index.html,500,user2,tennis,USA,Female,North America
+2024-05-22 00:56:36.599853,10.0.0.1,GET,/index.html,200,user1,basketball,New Zealand,Male,Oceania
+2024-05-19 18:38:36.599853,172.16.0.1,POST,/contact.html,404,user1,football,Germany,Female,Europe
